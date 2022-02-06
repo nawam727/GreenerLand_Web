@@ -1,0 +1,40 @@
+.header{
+	padding:20px 10px;
+}
+
+.header a{
+	color:#009900;
+	font-weight:bold;
+	font-family:Poppins;
+	font-size:25px;
+	line-height:80px;
+	padding:100px;
+	text-decoration:none;
+}
+
+.header-center ul li{
+	display:inline;
+}
+
+.header-center ul li a{
+	font-size:15px;
+	color:#000000;
+	font-family:Poppins;
+	text-decoration:none;
+	font-weight:bold;
+	line-height:53px;
+	padding:20px 24px;
+}
+
+ul{
+	text-align: center;
+}
+
+.header-center a:hover{
+	color:#99ff99;
+}
+
+.header-center a:active{
+	color:#00b300;
+	
+}
