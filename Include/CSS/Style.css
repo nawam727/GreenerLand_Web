@@ -1,65 +1,130 @@
-.home-hero {
-	
-	padding-bottom: 5rem;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+:root {
+    --primary-color:#009900;
+
 }
 
-
-
-.home-hero-contain-img{
-	width:50%;
-	float:right;
-}
-.home-hero-contain-text p {
-	width: 100%;
-	max-width: 40rem;
-	color: #fff;
+.hero{
+    background-image: url("../../Images/tree2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:9rem;
+    padding-top:13rem;
+    background-position-y: -197px;
 }
 
+.hero .container {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+ 
+}
 
-.home-hero-contain h2{
+.hero-contant-left {
+    max-width: 40rem;
+    width: 100%;
+}
+
+.hero-contant-left h2{
 	font-family: Poppins;
-	padding: 20px 120px;
-	padding-bottom: 0px;
+    color: #fff;
 	font-size: 43px;
 	line-height: 1.2em;
-
-
+    margin-top: -5rem;
 }
 
-.home-hero-contain p{
+.hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-contant-left p{
 	font-family: Poppins;
-	padding: 120px;
-	padding-top: 0px;
-	padding-bottom: 0px;
 	font-size: 16px;
 	line-height: 25px;
+    color: #fff;
 	font-style: normal;
 	font-weight: 400;
 }
-.hero-btn{
-	margin-left: 120px;
-	margin-top: 50px;
-}
-.hero-btn a{
-	padding: 20px 120px;
-}
 
-.hero-btn .plant{
+.hero-contant-left a{
 	line-height:48px;
 	font-weight:500;
 	text-align:center;
-	white-space:nowrap;
-	user-select:none;
-	border: 1px solid #e68a00;
-	padding: 0 30px;
+	border: 1px solid var(--primary-color);
 	font-size: 15px;
 	font-family: Poppins;
 	border-radius:50px;
+    padding: 0.8rem;
 	color:#fff;
 	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
-	background-color: #e68a00;
-	transition:all 0.3s ease-out 0s;
-	float:left;
-	text-transform:5 rem;
+	background-color: var(--primary-color);
 	text-decoration:none;
+    margin: 3rem 0;
+}
+
+.hero-contant-right {
+    object-fit: contain;
+}
+
+.our-project-h2 {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.card{
+    border: 1px;
+    margin: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+.card-container h4{
+    font-family: Poppins;
+    text-align: center;
+    font-size: 25px;
+}
+
+.our-project-contain {
+    display: flex;
+    width: 100%;
+    max-width: 60rem;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+.card-container{
+    text-align: center;
+}
+
+.card i{
+    font-size: 50px;
+}
+
+.card p{
+    font-family: Poppins;
+}
+
+.card a{
+    line-height:48px;
+	font-weight:500;
+	text-align:center;
+	border: 1px solid var(--primary-color);
+	font-size: 15px;
+	font-family: Poppins;
+	border-radius:50px;
+    padding: 0.8rem;
+	color:#fff;
+	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
+	background-color: var(--primary-color);
+	text-decoration:none;
+    margin: 3rem 0;
+}
+
+.card a:hover{
+    color: #99ff99;;
 }
