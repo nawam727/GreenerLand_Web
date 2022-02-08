@@ -26,12 +26,12 @@
 		</section>
 		<section class="our-project">
 			<div class="our-project-h2">
-				<h2> Our Projects</h2>
+				<h2 class="headline"> Our Projects</h2>
 			</div>
 			<div class="our-project-contain">
 				<div class="card">
 					<div class="card-container">
-						<h4><b>Membership Programe</b></h4>
+						<h4>Membership Programe</h4>
 						<i class="fi fi-rr-user"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
@@ -39,7 +39,7 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4><b>Green <br>Certificate</b></h4>
+						<h4>Green <br>Certificate</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
@@ -47,7 +47,7 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4><b>Plantation Programme</b></h4>
+						<h4>Plantation Programme</h4>
 						<i class="fi fi-rr-tree"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
@@ -55,9 +55,9 @@
 				</div>	
 			<div>
 		</section>
-		<section class>
+		<section>
 			<div class="tree-plant">
-				<h2>Planting the trees<h2>
+				<h2 class="headline">Planting the trees</h2>
 				<p>Did you know, on average, one tree produces nearly 
 					260 pounds of oxygen each year?
 					Our dedicated agriculture 
@@ -70,7 +70,30 @@
 					 to people.</p>
 			</div>
 			<div class="tree-plant-con">
-				<div></div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Two Trees</h4>
+						<p>LKR 500</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Four Trees</h4>
+						<p>LKR 1000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Eight Trees</h4>
+						<p>LKR 2000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>	
+			</div>
+			<div class="more-op">
+			<a href="">Add More Option</a>
 			</div>
 		</section>
 

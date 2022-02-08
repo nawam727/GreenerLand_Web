@@ -1,5 +1,15 @@
 <div class="header">
-			<a href="">GREENER LAND</a>
+	<div class="htop">
+		<div class="htop-logo">
+			<a class="logo" href="">GREENER LAND</a>
+		</div>
+		<div class="htop-nav">
+		<ul>
+			<li><a href="">+94 11-0315190</a></li>
+			<li><a href="">info@greenerland.com</a></li>
+		</ul>
+		</div>
+	</div>
 				<nav class="header-center">
 				<ul>
 					<li> <a href="">Home</a> </li>

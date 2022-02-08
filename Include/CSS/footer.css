@@ -2,7 +2,6 @@
 
 * {
     font-family: 'Poppins';
-    margin: 0;
 }
 
 /*==========footer about, nav links==========*/
@@ -15,11 +14,14 @@
     background-color: #043304;
 }
 
+body {
+    margin: 0;
+}
 
 .footer {
     width: 100%;
     max-width: 85rem;
-    margin: 0 auto;
+    margin: 0;
     padding: 0 1.5rem;
     margin: auto;
     box-sizing: border-box; 
