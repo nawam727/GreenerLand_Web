@@ -19,9 +19,8 @@
 						platform offering many value addition packages aligning to
 						Sustainability and working towards a sustainable future with
 						 clean air that will make way for a carbon-neutral nation.</p>
-						 <a href="" class="plant">Plant A Tree</a>
+						 <a href="Plant A Tree.php" class="plant">Plant A Tree</a>
 				</div>
-				
 			</div>
 		</section>
 		<section class="our-project">
@@ -93,7 +92,65 @@
 				</div>	
 			</div>
 			<div class="more-op">
-			<a href="">Add More Option</a>
+			<a href="Plant A Tree.php">Add More Option</a>
+			</div>
+		</section>
+		<section>
+		<div class="vmp-con">
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Mission</h4>
+						<i class="fi fi-rr-target"></i>
+						<p>Our mission is to build a sustainable environment, a green economy and a carbon neutral nation by supporting the Green Vision and sustainability drive in Sri Lanka.</p>
+					</div>
+				</div>
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Vission</h4>
+						<i class="fi fi-rr-globe-alt"></i>
+						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
+					</div>
+				</div>
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Philosophy</h4>
+						<i class="fi fi-rr-book-alt"></i>
+						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
+					</div>
+				</div>	
+			</div>
+		</section>
+		<section class="contri">
+		<h2 class="headline">Contributions</h2>
+		<p>Did you know, on average, one tree produces nearly 
+					260 pounds of oxygen each year?
+					Our dedicated agriculture 
+					team will plant 
+					trees on selected lands on behalf of you. Your tree 
+					will be photographed and geolocated and will be shared 
+					with you so as the tree grows, you can cherish the 
+					memories that grow 
+					with the tree and the endless benefits it provides
+					 to people.</p>
+		<div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Mission</h4>
+						<p>Our mission is to build a sustainable environment, a green economy and a carbon neutral nation by supporting the Green Vision and sustainability drive in Sri Lanka.</p>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Vission</h4>
+						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Philosophy</h4>
+						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
+					</div>
+				</div>	
 			</div>
 		</section>
 

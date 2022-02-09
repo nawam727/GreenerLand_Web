@@ -12,8 +12,8 @@
 	</div>
 				<nav class="header-center">
 				<ul>
-					<li> <a href="">Home</a> </li>
-					<li> <a href="">Shop</a> </li>
+					<li> <a href="index.php">Home</a> </li>
+					<li> <a href="Plant A Tree.php">Shop</a> </li>
                     <li> <a href="">Blog</a> </li>
 					<li> <a href="">About Us</a> </li>
 					<li> <a href="">Contacts</a> </li>
