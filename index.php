@@ -33,7 +33,7 @@
 						<h4>Membership Programe</h4>
 						<i class="fi fi-rr-user"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="About Us.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card">
@@ -49,7 +49,7 @@
 						<h4>Plantation Programme</h4>
 						<i class="fi fi-rr-tree"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Plant A Tree.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			<div>

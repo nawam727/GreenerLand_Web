@@ -55,3 +55,12 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+.tree-plant p{
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+}

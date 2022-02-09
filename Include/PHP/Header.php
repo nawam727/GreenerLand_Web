@@ -5,8 +5,8 @@
 		</div>
 		<div class="htop-nav">
 		<ul>
-			<li><a href="">+94 11-0315190</a></li>
-			<li><a href="">info@greenerland.com</a></li>
+			<li><a href="Contacts.php">+94 11-0315190</a></li>
+			<li><a href="Contacts.php">info@greenerland.com</a></li>
 		</ul>
 		</div>
 	</div>
@@ -17,6 +17,7 @@
                     <li> <a href="Blog.php">Blog</a> </li>
 					<li> <a href="About Us.php">About Us</a> </li>
 					<li> <a href="Contacts.php">Contacts</a> </li>
+					<li> <a href="Cart.php"><i class="fi fi-rr-shopping-cart-add"></i></a> </li>
 				</ul>
 				</nav>
 		</div>

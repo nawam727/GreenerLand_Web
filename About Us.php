@@ -19,7 +19,21 @@
 				</div>
 			</div>
 		</section>
-
+        <section>
+        <div class="tree-plant">
+				<h2 class="headline">Planting the trees</h2>
+				<p>Did you know, on average, one tree produces nearly 
+					260 pounds of oxygen each year?
+					Our dedicated agriculture 
+					team will plant 
+					trees on selected lands on behalf of you. Your tree 
+					will be photographed and geolocated and will be shared 
+					with you so as the tree grows, you can cherish the 
+					memories that grow 
+					with the tree and the endless benefits it provides
+					 to people.</p>
+		</div>
+        </section>
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
