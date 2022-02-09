@@ -117,7 +117,8 @@
 }
 
 .card2 a:hover{
-    color: #99ff99;
+    color: #009900;
+    background-color:white;
 }
 .card2 a:active{
     color: #fff;
