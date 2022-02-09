@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+:root {
+    --primary-color:#009900;
+
+}
+
+.headline {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.hero{
+    background-image: url("../../Images/white-wall.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:9rem;
+    padding-top:13rem;
+    background-position-y: -197px;
+}
+
+.hero .container {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+ 
+}
+
+.hero-contant-left {
+    max-width: 40rem;
+    width: 100%;
+}
+
+.hero-contant-left h2{
+	font-family: Poppins;
+    color: #000;
+	font-size: 43px;
+	line-height: 1.2em;
+    margin-top: -5rem;
+}
+
+.hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-contant-left p{
+	font-family: Poppins;
+	font-size: 16px;
+	line-height: 25px;
+    color: #000;
+	font-style: normal;
+	font-weight: 400;
+}

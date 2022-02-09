@@ -30,6 +30,75 @@
 					with the tree and the endless benefits it provides
 					 to people.</p>
 			</div>
+            <div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>2 Trees</h4>
+						<p>LKR 500</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>4 Trees</h4>
+						<p>LKR 1000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>6 Trees</h4>
+						<p>LKR 2000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>	
+			</div>
+            <div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>8 Trees</h4>
+						<p>LKR 500</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>10 Trees</h4>
+						<p>LKR 1000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>20 Trees</h4>
+						<p>LKR 2000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>	
+			</div>
+            <div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>40 Trees</h4>
+						<p>LKR 500</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>60 Trees</h4>
+						<p>LKR 1000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>80 Trees</h4>
+						<p>LKR 2000</p>
+						<a href="" class="Readmore">Add to Cart</a>
+					</div>
+				</div>	
+			</div>
         </section>
         </div>
 		<?php include 'Include/PHP/Footer.php' ?>

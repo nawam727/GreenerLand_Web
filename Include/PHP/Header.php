@@ -14,9 +14,9 @@
 				<ul>
 					<li> <a href="index.php">Home</a> </li>
 					<li> <a href="Plant A Tree.php">Shop</a> </li>
-                    <li> <a href="">Blog</a> </li>
-					<li> <a href="">About Us</a> </li>
-					<li> <a href="">Contacts</a> </li>
+                    <li> <a href="Blog.php">Blog</a> </li>
+					<li> <a href="About Us.php">About Us</a> </li>
+					<li> <a href="Contacts.php">Contacts</a> </li>
 				</ul>
 				</nav>
 		</div>
