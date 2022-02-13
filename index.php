@@ -101,21 +101,21 @@
 					<div class="card3-container">
 						<h4>Mission</h4>
 						<i class="fi fi-rr-target"></i>
-						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order to create a sustainable environment, a sustainable future, and a carbon-neutral nation.</p>
+						<p>Our mission is to build a sustainable environment, a green economy and a carbon neutral nation by supporting the Green Vision and sustainability drive in Sri Lanka.</p>
 					</div>
 				</div>
 				<div class="card3">
 					<div class="card3-container">
 						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
-						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
+						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
 					</div>
 				</div>
 				<div class="card3">
 					<div class="card3-container">
 						<h4>Philosophy</h4>
 						<i class="fi fi-rr-book-alt"></i>
-						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.</p>
+						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
 					</div>
 				</div>	
 			</div>
