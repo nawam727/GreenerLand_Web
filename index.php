@@ -101,7 +101,7 @@
 					<div class="card3-container">
 						<h4>Mission</h4>
 						<i class="fi fi-rr-target"></i>
-						<p>Our mission is to build a sustainable environment, a green economy and a carbon neutral nation by supporting the Green Vision and sustainability drive in Sri Lanka.</p>
+						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order to create a sustainable environment, a sustainable future, and a carbon-neutral nation.</p>
 					</div>
 				</div>
 				<div class="card3">
