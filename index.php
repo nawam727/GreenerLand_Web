@@ -14,7 +14,7 @@
 		<section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
-					<h2>WELCOME TO GREENER LAND</h2>
+					<h2>WELCOME TO GREENER WORLD</h2>
 					<p>We are Sri Lanka’s first online tree planting community-building
 						platform offering many value addition packages aligning to
 						Sustainability and working towards a sustainable future with
@@ -38,7 +38,7 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4>Green <br>Certificate</h4>
+						<h4>Services in <br>Collaboration</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
@@ -106,7 +106,7 @@
 				</div>
 				<div class="card3">
 					<div class="card3-container">
-						<h4>Vission</h4>
+						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
 						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
 					</div>
