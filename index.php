@@ -135,20 +135,23 @@
 		<div class="tree-plant-con">
 				<div class="card2">
 					<div class="card2-container">
-						<h4>Mission</h4>
-						<p>Our mission is to build a sustainable environment, a green economy and a carbon neutral nation by supporting the Green Vision and sustainability drive in Sri Lanka.</p>
+						<h4>Temples</h4>
+						<p></p>
+						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">
 					<div class="card2-container">
-						<h4>Vission</h4>
-						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
+						<h4>Garden</h4>
+						<p></p>
+						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">
 					<div class="card2-container">
-						<h4>Philosophy</h4>
-						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
+						<h4>Beaches</h4>
+						<p></p>
+						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			</div>
