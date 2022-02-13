@@ -106,16 +106,16 @@
 				</div>
 				<div class="card3">
 					<div class="card3-container">
-						<h4>Vission</h4>
+						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
-						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
+						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
 					</div>
 				</div>
 				<div class="card3">
 					<div class="card3-container">
 						<h4>Philosophy</h4>
 						<i class="fi fi-rr-book-alt"></i>
-						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
+						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.</p>
 					</div>
 				</div>	
 			</div>
