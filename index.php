@@ -54,9 +54,9 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4>Membership Programe</h4>
+						<h4>School of Agriculture</h4>
 						<i class="fi fi-rr-user"></i>
-						<p>Let us create a path to a sustainable future</p>
+						<p>Educating the youth about agriculture.</p>
 						<a href="About Us.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
