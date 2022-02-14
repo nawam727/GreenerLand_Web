@@ -51,6 +51,14 @@
 						<p>Our efforts to create sustainable livelihoods</p>
 						<a href="Plant A Tree.php" class="Readmore">Read More</a>
 					</div>
+				</div>
+				<div class="card">
+					<div class="card-container">
+						<h4>Membership Programe</h4>
+						<i class="fi fi-rr-user"></i>
+						<p>Let us create a path to a sustainable future</p>
+						<a href="About Us.php" class="Readmore">Read More</a>
+					</div>
 				</div>	
 			<div>
 		</section>
