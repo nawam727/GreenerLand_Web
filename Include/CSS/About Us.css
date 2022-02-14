@@ -64,3 +64,43 @@
     margin: auto;
     padding-top: 20px;
 }
+
+.ChairmansMessage{
+    background-color:rgb(210, 231, 219);
+    width:100%;
+    height: 300px;
+    margin:auto;
+}
+.ChairmansMessage p{
+    padding: 0rem 8rem;
+}
+
+.Contributions p{
+    padding:0rem 8rem;
+}
+
+.card{
+    width:250px;
+    height:300px;
+    border: 1px;
+    margin: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+.our-project-contain .card .card-container .Mission{
+    text-align: center;
+    font-family: Poppins;
+    text-align: center;
+    font-size: 25px;
+}
+.our-project-contain{
+    display:flex;
+    margin:auto;
+    max-width: 60rem;
+}
+
+.Touch h4{
+    text-align: center;
+}
