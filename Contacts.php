@@ -15,7 +15,7 @@
 <p>Contact</p><input type="text" name="contact"><br>
 <p>District</p><input type="text" name="district"><br>
 <p>Message</p><input type="text" name="message"><br><br><br><br>
-<input type="send" value="send" class="button">
+<button type="send" value="send" >Send</button>
 </form>
 </div>
 <br/>
