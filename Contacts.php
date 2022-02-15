@@ -8,7 +8,17 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
-        <h1>Contacts Us</h1>
+    <div class="contact-form">
+    <form action="insert"method="post">
+<p>Name</p><input type="text" name="name"><br>
+<p>Email</p><input type="text" name="email"><br>
+<p>Contact</p><input type="text" name="contact"><br>
+<p>District</p><input type="text" name="district"><br>
+<p>Message</p><input type="text" name="message"><br><br><br><br>
+<input type="send" value="send" class="button">
+</form>
+</div>
+<br/>
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
