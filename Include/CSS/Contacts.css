@@ -2,7 +2,7 @@
     margin:auto;
         width: 100%;
         max-width: 40rem;
-    }
+ }
     input[type=text], select, textarea {
         width: 100%;
         padding: 12px;
@@ -12,4 +12,3 @@
         margin-top: 6px;
         margin-bottom: 16px;
         resize: vertical
-    
