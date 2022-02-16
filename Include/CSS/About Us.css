@@ -76,7 +76,15 @@
 }
 .ChairmansMessage p{
     padding: 0rem 8rem;
+    max-width: 100%;
+    text-align: center;
 }
+
+.ChairmansMessage footer{
+    max-width: 100%;
+    text-align: center;
+}
+
 
 .Contributions p{
     padding:0rem 8rem;
