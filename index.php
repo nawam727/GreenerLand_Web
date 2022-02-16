@@ -15,10 +15,7 @@
 			<div class="container">
 				<div class="hero-contant-left">
 					<h2>WELCOME TO GREENER WORLD</h2>
-					<p>We are Sri Lanka’s first online tree planting community-building
-						platform offering many value addition packages aligning to
-						Sustainability and working towards a sustainable future with
-						 clean air that will make way for a carbon-neutral nation.</p>
+					<p>We stand as one of the online tree planting commissions in Sri Lanka, prioritizing sustainability and doing many valuable activities and donating them to the nation.Dedicated to creating a sustainable country with a greener environment, including cleaner air, less carbon dioxide.</p>
 						 <a href="Plant A Tree.php" class="plant">Plant A Tree</a>
 				</div>
 			</div>
@@ -38,7 +35,7 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4>Services in <br>Collaboration</h4>
+						<h4>Services in <br>Collabo ration</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
