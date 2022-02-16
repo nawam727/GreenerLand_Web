@@ -9,6 +9,8 @@
     <body>
         <?php include 'Include/PHP/Header.php' ?>
             <h1>Blog</h1>
+
+            
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
