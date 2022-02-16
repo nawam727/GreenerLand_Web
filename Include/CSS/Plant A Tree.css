@@ -123,3 +123,71 @@
 .card2 a:active{
     color: #fff;
 }
+
+.Ask-Question p{
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 2rem;
+}
+
+.h-tag{
+    font-family: Poppins;
+    text-align: center;
+}
+
+.accordion {
+    width: 100%;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+
+.accordion-item {
+    margin: 1rem 0;
+    border-radius: .3rem;
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2);
+}
+
+.accordion-item-header {
+    padding: .5rem 3rem .5rem 1rem;
+    min-height: 3rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    color: var(--primary-color);
+}
+
+.accordion-item-header::after {
+    content: "\002B";
+    font-size: 1.3rem;
+    position: absolute;
+    right: 1rem;
+
+}
+
+.accordion-item-header.active::after {
+    content: "\2212";
+}
+.accordion-item-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.accordion-item-body-content {
+    padding: 1rem 2rem;
+    color: var(--primary-color);
+    line-height: 1.5rem;
+    border-top: 1px solid;
+    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;   
+}
+.accordion-item-header.active + .accordion-item-body {
+    max-height: 1000px;
+}

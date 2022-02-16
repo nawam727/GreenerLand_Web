@@ -94,14 +94,15 @@
     font-family: Poppins;
     text-align: center;
     font-size: 25px;
+    padding: 3rem;
 }
 
 .our-project-contain {
     display: flex;
     width: 100%;
-    max-width: 60rem;
+    max-width: 87rem;
     margin: auto;
-    padding-bottom: 3rem;
+    padding-bottom: 0rem;
 }
 .card-container{
     text-align: center;
