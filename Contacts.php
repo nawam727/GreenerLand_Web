@@ -8,6 +8,14 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
+        <h1 class="headline">Get In Touch</h1><br>
+              <ul>
+                  Use the below contact form to get in touch with us or call for more information.
+                  We are ready to assist you in building a sustainable and greener Sri Lanka.
+              </ul>
+        <ul>
+            <li><b>Monday – Saturday | 8.30AM – 5.30PM<b></li>
+       </ul>
     <div class="contact-form">
     <form action="insert"method="post">
 <p>Name</p><input type="text" name="name"><br>
@@ -42,7 +50,9 @@
                               <option value="Trincomalee">Trincomalee</option>
                               <option value="Vavuniya">Vavuniya</option>
                 </select><br><br>
-<p>Message</p><input type="text" name="message"><br><br><br><br>
+    <div class="form-group">
+   <label>Message:</label>
+               <textarea name="message"></textarea></div>
 <button type="send" value="send" >Send</button>
 </form>
 </div>
