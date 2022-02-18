@@ -22,7 +22,7 @@
         </ul>
         </div>
     <div class="contact-form">
-    <form action="insert"method="post">
+    <form action="insert"method="POST">
 <p>Name</p><input type="text" name="name"><br>
 <p>Email</p><input type="text" name="email"><br>
 <p>Contact</p><input type="text" name="contact"><br><br>
@@ -58,7 +58,7 @@
     <div class="form-group">
    <label>Message:</label>
                <textarea name="message"></textarea></div>
-<button type="send" value="send" >Send</button>
+<button type="submit" value="send" >Send</button>
 </form>
 </div>
 <br>
