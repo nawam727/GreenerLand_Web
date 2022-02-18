@@ -8,14 +8,19 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
+        <div class="set-up-location">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5758403540012!2d80.0393842151876!3d6.821329095069968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2523b05555555%3A0x546c34cd99f6f488!2sNSBM%20Green%20University!5e0!3m2!1sen!2slk!4v1645124231306!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+		</div>
+        <div class="get-in-touch">
         <h1 class="headline">Get In Touch</h1><br>
-              <ul>
-                  Use the below contact form to get in touch with us or call for more information.
-                  We are ready to assist you in building a sustainable and greener Sri Lanka.
-              </ul>
+            <ul>
+                  If you have any questions or need help use the below contact form to get in touch with us or call for more information.
+                  We are ready to assist you in building a greener world.
+            </ul>
         <ul>
-            <li><b>Monday – Saturday | 8.30AM – 5.30PM<b></li>
-       </ul>
+             <b>Monday – Saturday | 8.30AM – 5.30PM<b>
+        </ul>
+        </div>
     <div class="contact-form">
     <form action="insert"method="post">
 <p>Name</p><input type="text" name="name"><br>
