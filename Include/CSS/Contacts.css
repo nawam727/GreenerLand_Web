@@ -12,9 +12,10 @@
     position:absolute;
 }
 .contact-form{
-    margin:auto;
+    margin-left :100px;
         width: 100%;
         max-width: 40rem;
+        margin:4rem;
  }
     .hero{
         background-image: url("../../Images/image5.png");
@@ -93,9 +94,26 @@
     button[type=send]:hover {
         background-color: #438846;
       }
+
+    .contact-form-lr {
+        display: flex;
+    }
       
     .contact-form {
         border-radius: 5px;
         background-color: #e6ebe6;
         padding: 20px;
+      }
+      .open-hours{
+          text-align:center;
+          maRgin-right:100px;
+          border-radius: 5px;
+          background-color: #ffffff;
+          padding: 20px;
+          max-width:100%; 
+          margin:4rem;
+      }
+      .OpenTime{
+          font-weight:bold;
+          color:#e43509;
       }
