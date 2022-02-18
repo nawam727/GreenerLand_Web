@@ -1,3 +1,16 @@
+.set-up-location{
+    overflow:hidden;
+    padding-bottom: 35.25%;
+    position: relative;
+    height: 0;
+}
+.set-up-location iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 .contact-form{
     margin:auto;
         width: 100%;
