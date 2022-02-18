@@ -8,14 +8,24 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
+        <section class="hero">
+			<div class="container">
+				<div class="hero-contant-left">
+					<h1>How can we help?</h1>
+					<p>Send us a message!</p>
+				</div>
+			</div>
+		</section>
+        <div class="get-in-touch">
         <h1 class="headline">Get In Touch</h1><br>
-              <ul>
-                  Use the below contact form to get in touch with us or call for more information.
-                  We are ready to assist you in building a sustainable and greener Sri Lanka.
-              </ul>
+            <ul>
+                  If you have any questions or need help use the below contact form to get in touch with us or call for more information.
+                  We are ready to assist you in building a greener world.
+            </ul>
         <ul>
-            <li><b>Monday – Saturday | 8.30AM – 5.30PM<b></li>
-       </ul>
+             <b>Monday – Saturday | 8.30AM – 5.30PM<b>
+        </ul>
+        </div>
     <div class="contact-form">
     <form action="insert"method="post">
 <p>Name</p><input type="text" name="name"><br>
