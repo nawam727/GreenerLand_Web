@@ -43,5 +43,4 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['contact']) &
 } else {
   header("Location: index.php");
 }
-
 ?> 
