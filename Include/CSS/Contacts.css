@@ -16,7 +16,7 @@
         width: 100%;
         max-width: 40rem;
  }
-    .hero{
+.hero{
         background-image: url("../../Images/image5.png");
         filter: brightness(40%);
         background-size:cover;
@@ -28,7 +28,7 @@
         opacity: 1;
     }
     
-    .hero .container {
+.hero .container {
         width: 100%;
         max-width: 80rem;
         margin: auto;
@@ -81,7 +81,7 @@
         resize: vertical 
       }
       
-    button[type=send] {
+    button[type=submit] {
         background-color: #236340;
         color: white;
         padding: 12px 20px;
@@ -90,7 +90,7 @@
         cursor: pointer;
       }
       
-    button[type=send]:hover {
+    button[type=submit]:hover {
         background-color: #438846;
       }
       
