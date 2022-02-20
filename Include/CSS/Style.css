@@ -19,6 +19,8 @@
     padding-top:13rem;
     padding-left: 7rem;
     background-position-y: -197px;
+    position: relative;
+    overflow: hidden;
 }
 
 .hero .container {
