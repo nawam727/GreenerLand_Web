@@ -8,6 +8,7 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
+        
         <div class="get-in-touch">
         <h1 class="headline">Get In Touch</h1><br>
             <ul>
