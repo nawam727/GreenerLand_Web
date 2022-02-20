@@ -156,7 +156,6 @@ On your behalf, our professional agriculture team will plant trees on selected a
 		</section>
 
 		<?php include 'Include/PHP/Footer.php' ?>
-
-
+		
 </body>
 </html>

@@ -8,14 +8,9 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
-            <h1>Blog</h1>
-<<<<<<< HEAD
-
-            
-=======
+        
         
 
->>>>>>> 1b1816fe92b677fe844b46d0dcc0fd8dd4fc210a
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
