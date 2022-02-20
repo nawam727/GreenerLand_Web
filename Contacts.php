@@ -15,15 +15,15 @@
                   If you have any questions or need help use the below contact form to get in touch with us or call for more information.
                   We are ready to assist you in building a greener world.
             </ul>
-<<<<<<< HEAD
+
         <ul>
-             <b>Monday – Saturday | 8.30AM – 5.30PM<b>
+             <b>Monday – Saturday | 8.30AM – 5.30PM</b>
         </ul>
       </div>
-=======
+
         </div>
     <div class="contact-form-lr">
->>>>>>> 9236fa7cb866db8b1594bce17ed3c7b0c6f73c59
+
     <div class="contact-form">
     <form action="Include/PHP/ContactDB.php" method="POST">
 <p>Name</p><input type="text" name="name"><br>
