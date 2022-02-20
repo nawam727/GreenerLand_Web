@@ -1,4 +1,8 @@
-<?php
+<!DOCTYPE html>
+<htmal>
+  <body>
+
+  <?php
 
 if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['contact']) && isset($_POST['District']) && isset($_POST['message'])) {
     
@@ -43,5 +47,10 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['contact']) &
 } else {
   header("Location: index.php");
 }
+?> 
+<script src="include/JS/Sub.js"></script>
 
-?>
+
+
+  </body>
+</html>

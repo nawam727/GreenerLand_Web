@@ -54,7 +54,7 @@
 						<h4>School of Agriculture</h4>
 						<i class="fi fi-rr-user"></i>
 						<p>Educating the youth about agriculture.</p>
-						<a href="About Us.php" class="Readmore">Read More</a>
+						<a href="SchoolAl.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			<div>
@@ -156,7 +156,6 @@ On your behalf, our professional agriculture team will plant trees on selected a
 		</section>
 
 		<?php include 'Include/PHP/Footer.php' ?>
-
-
+		
 </body>
 </html>

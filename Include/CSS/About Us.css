@@ -65,6 +65,37 @@
     padding-top: 0rem;
     padding-bottom: 3rem;
 }
+.vmp-con {
+    display: flex;
+    width: 100%;
+    max-width: 60rem;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+
+.card3{
+    float: center;
+    border: 1px;
+    margin: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+.card3-container{
+    text-align: center;
+}
+
+.card3-container i{
+    font-size: 50px;
+}
+
+.card3 p{
+    font-family: Poppins;
+    max-width: 100%;
+    width: 12rem;
+    margin: 1rem;
+}
 
 .ChairmansMessage{
     background-color:rgb(210, 231, 219);
