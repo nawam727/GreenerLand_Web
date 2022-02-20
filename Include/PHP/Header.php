@@ -7,7 +7,7 @@
 		<div class="htop-nav">
 		<ul>
 			<li><a href="Contacts.php">+94 11-0315190</a></li>
-			<li><a href="Contacts.php">info@greenerland.com</a></li>
+			<li><a href="mailto:info@greenerland.com">info@greenerworld.com</a></li>
 		</ul>
 		</div>
 	</div>

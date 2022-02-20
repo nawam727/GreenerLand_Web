@@ -48,6 +48,8 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['contact']) &
   header("Location: index.php");
 }
 ?> 
+<script src="include/JS/Sub.js"></script>
+
 
 
   </body>
