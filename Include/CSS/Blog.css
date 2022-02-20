@@ -47,35 +47,25 @@
     margin: auto;
     padding-bottom: 3rem;
 }
-.card2-container{
+
+.Contributions p{
+    padding:0rem 8rem;
+}
+
+
+.card-container{
     text-align: center;
 }
 
-.card2-container i{
+.card i{
     font-size: 50px;
-}
-
-.card2{
-    border: 1px;
-    margin: 3rem;
-    padding: 3rem;
-    border-radius: 25px;
-    box-shadow:3px 3px 3px 3px darkgray;
-    padding-bottom: 2rem;
-}
-
-.card2-container h4{
-    font-family: Poppins;
-    text-align: center;
-    font-size: 25px;
-    margin-top: 0;
 }
 
 .card p{
     font-family: Poppins;
 }
 
-.card2 a{
+.card a{
     line-height:48px;
 	font-weight:500;
 	text-align:center;
@@ -84,20 +74,34 @@
 	font-family: Poppins;
 	border-radius:50px;
     padding: 0.8rem;
-	color:rgb(255, 255, 255);
+	color:#fff;
 	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
 	background-color: var(--primary-color);
 	text-decoration:none;
     margin: 3rem 0;
 }
 
-.card2 a:hover{
-    color: #009900;
-    background-color:white;
+.card a:hover{
+    color: #fff;
+    font-size: 17px;
+    padding: 1rem;
+    transition: all .3s ease-out 0s;
 }
-.card2 a:active{
+.card a:active{
     color: #fff;
 }
+
+.card{
+    width:250px;
+    height:300px;
+    border: 1px;
+    margin: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+
 
 .contri p{
     font-family: Poppins;

@@ -9,7 +9,7 @@
     <body>
         <?php include 'Include/PHP/Header.php' ?>
 
-        <section class="hero">
+            <section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
 					<h2>PLANTING THE TREES</h2>
@@ -31,29 +31,38 @@
 					memories that grow 
 					with the tree and the endless benefits it provides
 					 to people.</p>
-		<div class="tree-plant-con">
-				<div class="card2">
-					<div class="card2-container">
-						<h4>Temples</h4>
-						<p></p>
+		</section>
+
+        <section class="our-project">
+			<div class="our-project-h2">
+				<h2 class="headline"> Our Projects</h2>
+			</div>
+			<div class="our-project-contain">
+				<div class="card">
+					<div class="card-container">
+						<h4>Kaluthra Temple</h4>
+						<i class="fi fi-rr-user"></i>
+						<p>Let’s drive the course towards a sustainable future</p>
+						<a href="About Us.php" class="Readmore">Read More</a>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-container">
+						<h4>Gangaramaya Temple</h4>
+						<i class="fi fi-rr-diploma"></i>
+						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card2">
-					<div class="card2-container">
-						<h4>Garden</h4>
-						<p></p>
-						<a href="" class="Readmore">Read More</a>
-					</div>
-				</div>
-				<div class="card2">
-					<div class="card2-container">
-						<h4>Beaches</h4>
-						<p></p>
-						<a href="" class="Readmore">Read More</a>
+				<div class="card">
+					<div class="card-container">
+						<h4>Anuradapura Temple</h4>
+						<i class="fi fi-rr-tree"></i>
+						<p>Let’s drive the course towards a sustainable future</p>
+						<a href="Plant A Tree.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
-			</div>
+			<div>
 		</section>
 
         <?php include 'Include/PHP/Footer.php' ?>
