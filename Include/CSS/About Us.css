@@ -12,6 +12,14 @@
     font-weight: 600;
 }
 
+.headline-our {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+    padding-top: 2rem;
+}
+
 .hero{
     background-image: url("../../Images/white-wall.jpg");
     background-size:cover;
@@ -103,12 +111,13 @@
     height: 300px;
     margin:auto;
     padding-top: 1rem;
-    padding-bottom: 6rem;
+    padding-bottom: 9rem;
 }
 .ChairmansMessage p{
     padding: 0rem 8rem;
     max-width: 100%;
     text-align: center;
+    padding-bottom: 1rem;
 }
 
 .ChairmansMessage footer{
@@ -117,8 +126,48 @@
 }
 
 
+
 .Contributions p{
     padding:0rem 8rem;
+}
+
+
+.card-container{
+    text-align: center;
+}
+
+.card i{
+    font-size: 50px;
+}
+
+.card p{
+    font-family: Poppins;
+}
+
+.card a{
+    line-height:48px;
+	font-weight:500;
+	text-align:center;
+	border: 1px solid var(--primary-color);
+	font-size: 15px;
+	font-family: Poppins;
+	border-radius:50px;
+    padding: 0.8rem;
+	color:#fff;
+	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
+	background-color: var(--primary-color);
+	text-decoration:none;
+    margin: 3rem 0;
+}
+
+.card a:hover{
+    color: #fff;
+    font-size: 17px;
+    padding: 1rem;
+    transition: all .3s ease-out 0s;
+}
+.card a:active{
+    color: #fff;
 }
 
 .card{
