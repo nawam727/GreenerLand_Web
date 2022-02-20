@@ -19,6 +19,8 @@
     padding-top:13rem;
     padding-left: 7rem;
     background-position-y: -197px;
+    position: relative;
+    overflow: hidden;
 }
 
 .hero .container {
@@ -53,6 +55,7 @@
     color: #fff;
 	font-style: normal;
 	font-weight: 400;
+    padding-bottom: 1rem;
 }
 
 .hero-contant-left a{

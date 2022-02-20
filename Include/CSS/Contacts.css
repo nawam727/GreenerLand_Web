@@ -1,15 +1,151 @@
+.set-up-location{
+    overflow:hidden;
+    padding-bottom: 35.25%;
+    position: relative;
+    height: 0;
+}
+.set-up-location iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 .contact-form{
-    margin:auto;
+    margin-left :100px;
+    width: 100%;
+    max-width: 40rem;
+    margin:4rem;
+    border-radius: 5px;
+    background-color: #e6ebe6;
+    padding: 20px;
+ }  
+    .get-in-touch{
+        font-family: Poppins;
+        text-align: center;
+        max-width: 60rem;
         width: 100%;
-        max-width: 40rem;
+        margin: auto;
+        padding-top: 0rem;
+        padding-bottom: 3rem;
     }
     input[type=text], select, textarea {
         width: 100%;
-        padding: 12px;
-        border: 3px solid;
+        padding: 12px; 
+        border: 1px solid rgb(210, 231, 219); 
+        border-radius: 4px; 
+        box-sizing: border-box; 
+        margin-top: 6px; 
+        margin-bottom: 16px; 
+        resize: vertical 
+      }
+      
+    button[type=send] {
+        background-color: #236340;
+        color: white;
+        padding: 12px 20px;
+        border: none;
         border-radius: 4px;
-        box sizing:border-box;
-        margin-top: 6px;
-        margin-bottom: 16px;
-        resize: vertical
-    
+        cursor: pointer;
+      }
+
+    .contact-form-lr {
+        display: flex;
+    }
+
+.open-hours{
+          text-align:center;
+          maRgin-right:100px;
+          border-radius: 5px;
+          background-color: #ffffff;
+          padding: 20px;
+          max-width:100%; 
+          margin:4rem;
+}
+
+.OpenTime{
+font-weight:bold;
+ color:#e43509;
+}
+
+      
+button[type=submit]:hover {
+     background-color: #438846;
+}  
+
+.get-in-touch{
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 0rem;
+    padding-bottom: 3rem;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px; 
+    border: 1px solid rgb(46, 22, 22); 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  button[type=submit] {
+    background-color: #236340;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button[type=submit]:hover {
+    background-color: #438846;
+  }
+
+  .hero{
+    background-image: url("../../Images/tree6.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:9rem;
+    padding-top:13rem;
+    padding-left: 7rem;
+    background-position-y: -328px;
+}
+
+.hero .container {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -128px;
+    margin-top: 97px;
+
+}
+
+.hero-contant-left {
+    max-width: 40rem;
+    width: 100%;
+}
+
+.hero-contant-left h2{
+	font-family: Poppins;
+    color: rgb(255, 255, 255);
+	font-size: 43px;
+	line-height: 1.2em;
+    margin-top: -5rem;
+    padding-left: 2rem;
+}
+
+.hero-contant-left ul{
+	font-family: Poppins;
+	font-size: 16px;
+	line-height: 25px;
+    color: rgb(255, 255, 255);
+	font-style: normal;
+	font-weight: 400;
+    padding-bottom: 1rem;
+}

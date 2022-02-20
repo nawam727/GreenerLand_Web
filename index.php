@@ -38,7 +38,7 @@
 						<h4>Services in <br>Collaboration</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Investigate CSR as well as corporate sustainability services.</p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Blog.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card">
@@ -54,7 +54,7 @@
 						<h4>School of Agriculture</h4>
 						<i class="fi fi-rr-user"></i>
 						<p>Educating the youth about agriculture.</p>
-						<a href="About Us.php" class="Readmore">Read More</a>
+						<a href="SchoolAl.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			<div>
@@ -155,8 +155,15 @@ On your behalf, our professional agriculture team will plant trees on selected a
 			</div>
 		</section>
 
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"
+        integrity="sha512-8Wy4KH0O+AuzjMm1w5QfZ5j5/y8Q/kcUktK9mPUVaUoBvh3QPUZB822W/vy7ULqri3yR8daH3F58+Y8Z08qzeg=="
+        crossorigin="anonymous"></script>
+  <script>
+    tl = new TimelineMax({});
+        tl.staggerFrom('.hero-contant-left', 10, {y:"100%", ease:Power4.easeOut},0.45)
+    </script>
+
 		<?php include 'Include/PHP/Footer.php' ?>
-
-
+		
 </body>
 </html>

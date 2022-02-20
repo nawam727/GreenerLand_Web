@@ -2,20 +2,15 @@
 <html>
     <head>
         <link rel="stylesheet" href="Include/CSS/Header.css">
-        <link rel="stylesheet" href="Include/CSS/Blog.css">
+        <link rel="stylesheet" href="Include/CSS/SchoolAl.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 		<link rel="stylesheet" href="Include/CSS/footer.css">
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
-<<<<<<< HEAD
-            <h1>Blog</h1>
-            
-=======
-        
-        
 
->>>>>>> 52867bc9755d3974b8ea612b36731407173decc9
+
+
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
