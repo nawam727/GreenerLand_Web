@@ -77,5 +77,7 @@ Though no scientific definition exists to separate trees and shrubs, a useful de
 </div>
 <br/>
         <?php include 'Include/PHP/Footer.php' ?>
+        <script language="javascript" type="text/javascript" src="include/js/function validate.js">
+        </script>
     </body>
 </html>
