@@ -35,7 +35,7 @@
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4>Services in <br>Collabo ration</h4>
+						<h4>Services in <br>Collaboration</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Investigate CSR as well as corporate sustainability services.</p>
 						<a href="" class="Readmore">Read More</a>
