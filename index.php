@@ -5,6 +5,7 @@
 		<link rel="stylesheet" href="Include/CSS/Style.css">
 		<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 		<link rel="stylesheet" href="Include/CSS/footer.css">
+		<link rel="stylesheet" href="Include/CSS/Animation.css">
 	
     </head>
     <body>
@@ -25,7 +26,7 @@
 				<h2 class="headline"> Our Projects</h2>
 			</div>
 			<div class="our-project-contain">
-				<div class="card">
+				<div class="card animation-div card-last">
 					<div class="card-container">
 						<h4>Membership Programe</h4>
 						<i class="fi fi-rr-user"></i>
@@ -33,15 +34,15 @@
 						<a href="About Us.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card animation-div card-first">
 					<div class="card-container">
-						<h4>Services in <br>Collaboration</h4>
+						<h4>Services in Collaboration</h4>
 						<i class="fi fi-rr-diploma"></i>
 						<p>Investigate CSR as well as corporate sustainability services.</p>
 						<a href="Blog.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card animation-div card-first">
 					<div class="card-container">
 						<h4>Plantation Programme</h4>
 						<i class="fi fi-rr-tree"></i>
@@ -49,7 +50,7 @@
 						<a href="Plant A Tree.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card animation-div card-last">
 					<div class="card-container">
 						<h4>School of Agriculture</h4>
 						<i class="fi fi-rr-user"></i>
@@ -162,7 +163,7 @@ On your behalf, our professional agriculture team will plant trees on selected a
     tl = new TimelineMax({});
         tl.staggerFrom('.hero-contant-left', 10, {y:"100%", ease:Power4.easeOut},0.45)
     </script>
-
+<script src="Include/JS/Animation.js"></script>
 		<?php include 'Include/PHP/Footer.php' ?>
 		
 </body>
