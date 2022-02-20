@@ -1,0 +1,113 @@
+.headline {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.hero{
+    background-image: url("../../Images/tree1.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:9rem;
+    padding-top:13rem;
+    background-position-y: -197px;
+}
+
+.hero .container {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+ 
+}
+
+.hero-contant-left {
+    max-width: 40rem;
+    width: 100%;
+}
+
+.hero-contant-left h2{
+	font-family: Poppins;
+    color: #fff;
+	font-size: 43px;
+	line-height: 1.2em;
+    margin-top: -5rem;
+}
+
+.hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tree-plant-con {
+    display: flex;
+    width: 100%;
+    max-width: 60rem;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+
+.Contributions p{
+    padding:0rem 8rem;
+}
+
+
+.card-container{
+    text-align: center;
+}
+
+.card i{
+    font-size: 50px;
+}
+
+.card p{
+    font-family: Poppins;
+}
+
+.card a{
+    line-height:48px;
+	font-weight:500;
+	text-align:center;
+	border: 1px solid var(--primary-color);
+	font-size: 15px;
+	font-family: Poppins;
+	border-radius:50px;
+    padding: 0.8rem;
+	color:#fff;
+	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
+	background-color: var(--primary-color);
+	text-decoration:none;
+    margin: 3rem 0;
+}
+
+.card a:hover{
+    color: #fff;
+    font-size: 17px;
+    padding: 1rem;
+    transition: all .3s ease-out 0s;
+}
+.card a:active{
+    color: #fff;
+}
+
+.card{
+    width:250px;
+    height:300px;
+    border: 1px;
+    margin: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+
+
+.contri p{
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+}
