@@ -102,6 +102,86 @@
 			</div>
         </section>
         </div>
+		<section>
+		<div class="Ask-Question">
+				<h2 class="headline">Frequently Asked Questions</h2>
+				<p>Did you know, on average, one tree produces nearly 
+					260 pounds of oxygen each year?
+					Our dedicated agriculture 
+					team will plant 
+					trees on selected lands on behalf of you. Your tree 
+					will be photographed and geolocated and will be shared 
+					with you so as the tree grows, you can cherish the 
+					memories that grow 
+					with the tree and the endless benefits it provides
+					 to people.</p>
+			</div>
+		</section>
+		<section class="faq" id="home-faqs">
+    <div class="section-head">
+        <p class="freeble headline">FAQ</p>
+       <h1 class="h-tag">Felt those question like others?</h1>
+   </div>
+    <div class="accordion">
+        <div class="accordion-item">
+            <div class="accordion-item-header">
+                Can I gift the trees?
+            </div>
+            <div class="accordion-item-body">
+                <div class="accordion-item-body-content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Nostrum corporis dolorum at tenetur quisquam perferendis 
+                        eos aspernatur alias adipisci et, eum, laborum ipsa 
+                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <div class="accordion-item-header">
+                Do I own the trees?
+            </div>
+            <div class="accordion-item-body">
+                <div class="accordion-item-body-content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Nostrum corporis dolorum at tenetur quisquam perferendis 
+                        eos aspernatur alias adipisci et, eum, laborum ipsa 
+                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <div class="accordion-item-header">
+                Do I get a receipt?
+            </div>
+            <div class="accordion-item-body">
+                <div class="accordion-item-body-content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Nostrum corporis dolorum at tenetur quisquam perferendis 
+                        eos aspernatur alias adipisci et, eum, laborum ipsa 
+                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <div class="accordion-item-header">
+                Where will the trees be planted?     
+            </div>
+            <div class="accordion-item-body">
+                <div class="accordion-item-body-content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Nostrum corporis dolorum at tenetur quisquam perferendis 
+                        eos aspernatur alias adipisci et, eum, laborum ipsa 
+                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 		<?php include 'Include/PHP/Footer.php' ?>
-    </body>
+   <script src="include/JS/Plant A Tree.js"></script>
+	</body>
 </html>

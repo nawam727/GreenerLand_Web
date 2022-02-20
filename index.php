@@ -14,11 +14,8 @@
 		<section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
-					<h2>WELCOME TO GREENER LAND</h2>
-					<p>We are Sri Lanka’s first online tree planting community-building
-						platform offering many value addition packages aligning to
-						Sustainability and working towards a sustainable future with
-						 clean air that will make way for a carbon-neutral nation.</p>
+					<h2>WELCOME TO GREENER WORLD</h2>
+					<p>We stand as one of the online tree planting commissions in Sri Lanka, prioritizing sustainability and doing many valuable activities and donating them to the nation.Dedicated to creating a sustainable country with a greener environment, including cleaner air, less carbon dioxide.</p>
 						 <a href="Plant A Tree.php" class="plant">Plant A Tree</a>
 				</div>
 			</div>
@@ -32,15 +29,15 @@
 					<div class="card-container">
 						<h4>Membership Programe</h4>
 						<i class="fi fi-rr-user"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
+						<p>Let us create a path to a sustainable future</p>
 						<a href="About Us.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card">
 					<div class="card-container">
-						<h4>Green <br>Certificate</h4>
+						<h4>Services in <br>Collaboration</h4>
 						<i class="fi fi-rr-diploma"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
+						<p>Investigate CSR as well as corporate sustainability services.</p>
 						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>
@@ -48,8 +45,16 @@
 					<div class="card-container">
 						<h4>Plantation Programme</h4>
 						<i class="fi fi-rr-tree"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
+						<p>Our efforts to create sustainable livelihoods</p>
 						<a href="Plant A Tree.php" class="Readmore">Read More</a>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-container">
+						<h4>School of Agriculture</h4>
+						<i class="fi fi-rr-user"></i>
+						<p>Educating the youth about agriculture.</p>
+						<a href="About Us.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			<div>
@@ -57,16 +62,9 @@
 		<section>
 			<div class="tree-plant">
 				<h2 class="headline">Planting the trees</h2>
-				<p>Did you know, on average, one tree produces nearly 
-					260 pounds of oxygen each year?
-					Our dedicated agriculture 
-					team will plant 
-					trees on selected lands on behalf of you. Your tree 
-					will be photographed and geolocated and will be shared 
-					with you so as the tree grows, you can cherish the 
-					memories that grow 
-					with the tree and the endless benefits it provides
-					 to people.</p>
+				<p>Did you know 80,000 acres of forests disappear from the Earth every day.
+On your behalf, our professional agriculture team will plant trees on selected areas. Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow, you may enjoy the memories that come with it as well as the many benefits it gives.
+</p>
 			</div>
 			<div class="tree-plant-con">
 				<div class="card2">
@@ -106,16 +104,16 @@
 				</div>
 				<div class="card3">
 					<div class="card3-container">
-						<h4>Vission</h4>
+						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
-						<p>Empowering Sri Lanka towards a greener and sustainable tomorrow by providing unparallel services towards sustainability.</p>
+						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
 					</div>
 				</div>
 				<div class="card3">
 					<div class="card3-container">
 						<h4>Philosophy</h4>
 						<i class="fi fi-rr-book-alt"></i>
-						<p>We believe in building a greener and sustainable tomorrow. We are committed to empowering our stakeholders and our discerning citizens to make the planet sustainable for future generations.</p>
+						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.</p>
 					</div>
 				</div>	
 			</div>
