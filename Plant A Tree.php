@@ -35,6 +35,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>2 Trees</h4>
+						<img src="Images/kab.jpg" class="img">
 						<p>LKR 500</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -42,6 +43,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>4 Trees</h4>
+						<img src="Images/kab.jpg" class="img">
 						<p>LKR 1000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -49,6 +51,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>6 Trees</h4>
+						<img src="Images/kab.jpg" class="img">
 						<p>LKR 2000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -58,6 +61,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>8 Trees</h4>
+						<img src="Images/nel.jpg" class="img">
 						<p>LKR 500</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -65,6 +69,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>10 Trees</h4>
+						<img src="Images/nel.jpg" class="img">
 						<p>LKR 1000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -72,6 +77,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>20 Trees</h4>
+						<img src="Images/nel.jpg" class="img">
 						<p>LKR 2000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -81,6 +87,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>40 Trees</h4>
+						<img src="Images/grapes.jpg" class="img">
 						<p>LKR 500</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -88,6 +95,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>60 Trees</h4>
+						<img src="Images/grapes.jpg" class="img">
 						<p>LKR 1000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
@@ -95,6 +103,7 @@
 				<div class="card2">
 					<div class="card2-container">
 						<h4>80 Trees</h4>
+						<img src="Images/grapes.jpg" class="img">
 						<p>LKR 2000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>

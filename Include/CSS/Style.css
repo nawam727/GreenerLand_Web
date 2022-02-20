@@ -168,6 +168,10 @@
     margin-top: 0;
 }
 
+.img{
+    width:80%;
+}
+
 .tree-plant-con {
     display: flex;
     width: 100%;

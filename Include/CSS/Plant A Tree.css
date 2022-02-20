@@ -82,6 +82,11 @@
     margin-top: 0;
 }
 
+.img{
+    width:80%;
+    margin-left: 0rem;
+}
+
 .tree-plant-con {
     display: flex;
     width: 100%;
