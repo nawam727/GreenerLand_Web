@@ -22,19 +22,39 @@
 		</section>
         <section>
         <div class="tree-plant">
-				<h2 class="headline">Planting the trees</h2>
-				<p>Did you know, on average, one tree produces nearly 
-					260 pounds of oxygen each year?
-					Our dedicated agriculture 
-					team will plant 
-					trees on selected lands on behalf of you. Your tree 
-					will be photographed and geolocated and will be shared 
-					with you so as the tree grows, you can cherish the 
-					memories that grow 
-					with the tree and the endless benefits it provides
-					 to people.</p>
+				<h2 class="headline">Our Moral Imperative</h2>
+				<p>As we collectively face a planet increasingly in distress from climate change, deforestation, pollution, and population growth, Saving Nature is working to create a more sustainable future. <br>
+                   Being the source of oxygen for humans to breathe is one of the primary benefits of planting trees. Trees have the amazing capability of absorbing the Carbon dioxide in air and letting out Oxygen during the process of photosynthesis whereby energy is produced.
+                   <br>
+                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. Research indicates that natural climate solutions, such as forest conservation and restoration, can provide over one-third of the climate mitigation needed in the next decade to meet the Paris Agreement targets.
+                </p>
 		</div>
         </section>
+		<section>
+		<div class="vmp-con">
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Mission</h4>
+						<i class="fi fi-rr-target"></i>
+						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order to create a sustainable environment, a sustainable future, and a carbon-neutral nation.</p>
+					</div>
+				</div>
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Vision</h4>
+						<i class="fi fi-rr-globe-alt"></i>
+						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
+					</div>
+				</div>
+				<div class="card3">
+					<div class="card3-container">
+						<h4>Philosophy</h4>
+						<i class="fi fi-rr-book-alt"></i>
+						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.</p>
+					</div>
+				</div>	
+			</div>
+		</section>
 	
         <div class="ChairmansMessage">
 				<h2 class="headline">Chairman's Massage</h2>
