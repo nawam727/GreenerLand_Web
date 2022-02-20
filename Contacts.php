@@ -53,7 +53,7 @@
     <div class="form-group">
    <label>Message:</label>
                <textarea name="message"></textarea></div>
-<button type="submit" value="send" >Send</button>
+<button type="submit" value="send" onClick="validateform()">Send</button>
 </form>
 </div>
 <div class="open-hours">
@@ -77,7 +77,7 @@ Though no scientific definition exists to separate trees and shrubs, a useful de
 </div>
 <br/>
         <?php include 'Include/PHP/Footer.php' ?>
-        <script language="javascript" type="text/javascript" src="include/js/function validate.js">
+        <script src="include/js/function validate.js">
         </script>
     </body>
 </html>
