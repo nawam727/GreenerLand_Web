@@ -20,7 +20,7 @@
         <ul>
              <b>Monday – Saturday | 8.30AM – 5.30PM<b>
         </ul>
-        </div>
+      </div>
     <div class="contact-form">
     <form action="insert"method="POST">
 <p>Name</p><input type="text" name="name"><br>

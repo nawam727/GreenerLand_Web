@@ -19,7 +19,7 @@
 		</section>
         <section>
         <div class="tree-plant">
-				<h2 class="headline">Planting the trees</h2>
+				<h2 class="headline">Membership Programme</h2>
 				<p>Did you know, on average, one tree produces nearly 
 					260 pounds of oxygen each year?
 					Our dedicated agriculture 
