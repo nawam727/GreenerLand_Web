@@ -8,15 +8,7 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
-        <section class="hero">
-			<div class="container">
-				<div class="hero-contant-left">
-					<h2>A KEY TO A GREENER WORLD IS IN YOUR HANDS.</h2>	
-                    <br>
-                    <br>
-				</div>
-			</div>
-		</section>
+        
         <div class="get-in-touch">
         <h1 class="headline">Get In Touch</h1><br>
             <ul>
@@ -26,7 +18,7 @@
         </div>
     <div class="contact-form-lr">
     <div class="contact-form">
-    <form action="insert"method="POST">
+    <form action="Include/PHP/ContactDB.php" method="POST">
 <p>Name</p><input type="text" name="name"><br>
 <p>Email</p><input type="text" name="email"><br>
 <p>Contact</p><input type="text" name="contact"><br><br>
