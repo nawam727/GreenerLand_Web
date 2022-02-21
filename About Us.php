@@ -23,7 +23,7 @@
 				<p>As we collectively face a planet increasingly in distress from climate change, deforestation, pollution, and population growth, Saving Nature is working to create a more sustainable future. <br>
                    Being the source of oxygen for humans to breathe is one of the primary benefits of planting trees. Trees have the amazing capability of absorbing the Carbon dioxide in air and letting out Oxygen during the process of photosynthesis whereby energy is produced.
                    <br>
-                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. Research indicates that natural climate solutions, such as forest conservation and restoration, can provide over one-third of the climate mitigation needed in the next decade to meet the Paris Agreement targets.
+                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. 
                 </p>
 		</div>
         </section>
@@ -54,7 +54,7 @@
 		</section>
 	
         <div class="ChairmansMessage">
-				<h2 class="headline">Chairman's Massage</h2>
+				<h2 class="headline">Our Message</h2>
 				<p>The average man spends most of his lifetime working – working for survival, to provide a comfortable living for his family, for betterment of society, for upward social mobility, for own mental satisfaction & wellbeing and toward other aspirations & incentives. Once a man has passed his prime, upon introspection, he will inevitably have regrets; he will regret the risks not taken, roads not travelled, and opportunities not seized. However, at the end of the day, if his achievements outnumber regrets, then he could be considered a successful individual.
 
 In my case, the business I have built with much love and care is one that I take great pride in: looking back, I am deeply satisfied with its journey through the years as a socially and environmentally conscious Enterprise.
@@ -69,8 +69,13 @@ Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
 		</div>
 		<div class="Contributions">
 			<h2 class="headline">Our Recent Contributions</h2>
-				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum	
+				<p>Planting more trees is the only long-term solution to rising pollution in our cities, climate change, and 
+					rapidly dwindling green cover. Most of us are aware of this and wish to help, but for a variety of reasons,
+				     our good intentions do not translate into effective actions. You may not have the time, energy, 
+					 or space to plant trees, for example. Alternatively, you may be unsure about which plants/trees to cultivate, 
+					 how to care for them, and so on. Fortunately, we can assist you in making a positive contribution to
+					a greener planet as effortlessly as purchasing online.It not only plants a tree on your behalf, but it also creates jobs and income for
+					local communities and rural recipients
 				</p>
 		</div>
 		<section class="our-project">
