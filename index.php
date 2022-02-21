@@ -161,7 +161,7 @@ On your behalf, our professional agriculture team will plant trees on selected a
         crossorigin="anonymous"></script>
   <script>
     tl = new TimelineMax({});
-        tl.staggerFrom('.hero-contant-left', 10, {y:"100%", ease:Power4.easeOut},0.45)
+        tl.staggerFrom('.hero-contant-left', 8, {y:"100%", ease:Power4.easeOut},0.45)
     </script>
 <script src="Include/JS/Animation.js"></script>
 		<?php include 'Include/PHP/Footer.php' ?>
