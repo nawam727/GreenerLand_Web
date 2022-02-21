@@ -131,7 +131,7 @@ On your behalf, our professional agriculture team will plant trees on selected a
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">
