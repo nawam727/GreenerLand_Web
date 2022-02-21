@@ -23,7 +23,7 @@
 				<p>As we collectively face a planet increasingly in distress from climate change, deforestation, pollution, and population growth, Saving Nature is working to create a more sustainable future. <br>
                    Being the source of oxygen for humans to breathe is one of the primary benefits of planting trees. Trees have the amazing capability of absorbing the Carbon dioxide in air and letting out Oxygen during the process of photosynthesis whereby energy is produced.
                    <br>
-                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. Research indicates that natural climate solutions, such as forest conservation and restoration, can provide over one-third of the climate mitigation needed in the next decade to meet the Paris Agreement targets.
+                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. 
                 </p>
 		</div>
         </section>

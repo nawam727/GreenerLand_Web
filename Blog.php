@@ -17,9 +17,8 @@
 				</div>
 			</div>
 		</section>
-        <section>
-
-        <section class="contri">
+        
+		<section class="contri">
 		<h2 class="headline">Contributions</h2>
 		<p>Did you know, on average, one tree produces nearly 
 					260 pounds of oxygen each year?
@@ -31,38 +30,29 @@
 					memories that grow 
 					with the tree and the endless benefits it provides
 					 to people.</p>
-		</section>
-
-        <section class="our-project">
-			<div class="our-project-h2">
-				<h2 class="headline"> Our Projects</h2>
-			</div>
-			<div class="our-project-contain">
-				<div class="card">
-					<div class="card-container">
-						<h4>Kaluthra Temple</h4>
-						<i class="fi fi-rr-user"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
-						<a href="About Us.php" class="Readmore">Read More</a>
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-container">
-						<h4>Gangaramaya Temple</h4>
-						<i class="fi fi-rr-diploma"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
+		<div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Temples</h4>
+						<p></p>
 						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card">
-					<div class="card-container">
-						<h4>Anuradapura Temple</h4>
-						<i class="fi fi-rr-tree"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
-						<a href="Plant A Tree.php" class="Readmore">Read More</a>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Garden</h4>
+						<p></p>
+						<a href="" class="Readmore">Read More</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Beaches</h4>
+						<p></p>
+						<a href="" class="Readmore">Read More</a>
 					</div>
 				</div>	
-			<div>
+			</div>
 		</section>
 
         <?php include 'Include/PHP/Footer.php' ?>
