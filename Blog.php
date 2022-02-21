@@ -20,6 +20,25 @@
         
 		<section class="contri">
 		<h2 class="headline">Contributions</h2>
+		<p>Planting more trees is the only long-term solution to rising pollution in our cities, climate change, and rapidly dwindling green cover. 
+			Most of us are aware of this and wish to help, but for a variety of reasons, our good intentions do not translate into effective actions.
+		    You may not have the time, energy, or space to plant trees, for example. Alternatively, you may be unsure about which plants/trees to cultivate,
+		    how to care for them, and so on. Fortunately, we can assist you in making a positive contribution to a greener planet as effortlessly as purchasing
+			online.It not only plants a tree on your behalf, but it also creates jobs and income for local communities and rural recipients.</p>
+		</section>
+
+        <section class="our-project">
+			<div class="our-project-h2">
+				<h2 class="headline"> Our Projects</h2>
+			</div>
+			<div class="our-project-contain">
+				<div class="card">
+					<div class="card-container">
+						<h4>Kaluthra Temple</h4>
+						<i class="fi fi-rr-user"></i>
+						<p>Let’s drive the course towards a sustainable future</p>
+						<a href="About Us.php" class="Readmore">Read More</a>
+=======
 		<p>Did you know, on average, one tree produces nearly 
 					260 pounds of oxygen each year?
 					Our dedicated agriculture 
