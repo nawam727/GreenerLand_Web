@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="Include/CSS/Plant A Tree.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 		<link rel="stylesheet" href="Include/CSS/footer.css">
+	<link rel="stylesheet" href="Include/CSS/Animation.css">
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
@@ -31,7 +32,9 @@
 					with the tree and the endless benefits it provides
 					 to people.</p>
 			</div>
+			
             <div class="tree-plant-con">
+			<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>2 Trees</h4>
@@ -40,6 +43,8 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
+				</div>
+				<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>4 Trees</h4>
@@ -48,6 +53,8 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
+				</div>
+				<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>6 Trees</h4>
@@ -55,6 +62,7 @@
 						<p>LKR 2000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
+				</div>
 				</div>	
 			</div>
             <div class="tree-plant-con">
@@ -84,6 +92,7 @@
 				</div>	
 			</div>
             <div class="tree-plant-con">
+			<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>40 Trees</h4>
@@ -92,6 +101,8 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
+			</div>
+			<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>60 Trees</h4>
@@ -100,6 +111,8 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
+			</div>
+			<div class="card animation-div card-first">
 				<div class="card2">
 					<div class="card2-container">
 						<h4>80 Trees</h4>
@@ -107,7 +120,8 @@
 						<p>LKR 2000</p>
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
-				</div>	
+				</div>
+			</div>	
 			</div>
         </section>
         </div>
@@ -202,5 +216,6 @@
 
 		<?php include 'Include/PHP/Footer.php' ?>
    <script src="include/JS/Plant A Tree.js"></script>
+   <script src="Include/JS/Animation.js"></script>
 	</body>
 </html>
