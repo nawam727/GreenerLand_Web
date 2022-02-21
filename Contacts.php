@@ -12,18 +12,13 @@
   <section class="hero">
     <div class="container">
 				<div class="hero-contant-left">
-					<h2>Get In Touch</h2>
-				 	<p>
-                        <ul>
-                If you have any questions or need help use the below contact form to get in touch with us or call for more information.
-                  We are ready to assist you in building a greener world.
-                        </ul>
-                    </p> 
+					<h2 class="headline">The key to a Greener World is in your hands.</h2>
 				</div>
 			</div>
     </section>
 
         <div class="get-in-touch">
+            <h2 class="headline">Get in touch</h2>
             <ul>
                   If you have any questions or need help use the below contact form to get in touch with us or call for more information.
                   We are ready to assist you in building a greener world.
