@@ -64,8 +64,7 @@
 				I would like to heartily thank everybody who applauded me in my success and stood by my side including my dear wife and members of staff, some whose service span over two decades; I am also grateful to the doubters because your skepticism certainly motivated me to keep trying & trying in times of failure.
 
 				</p>
-<p class="footer">Indika Hewawasam
-Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
+<p class="footer">Greener World & Sustainability (Pvt) Ltd</p>
 		</div>
 		<div class="Contributions">
 			<h2 class="headline">Our Recent Contributions</h2>
