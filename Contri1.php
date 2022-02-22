@@ -19,7 +19,7 @@
         <section>
 
 		<div class="tree-plant">
-				<h2 class="headline">OUR EFFORTS</h2>
+				<h2 class="headline-our">OUR EFFORTS</h2>
 				<p>Lorem ipsum dolor sit amet consectetur </p>
 			</div>
 		</section>
