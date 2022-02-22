@@ -11,8 +11,7 @@
         <section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
-					<h2>Temples</h2>
-					<p> Lorem ipsum dolor sit amet consectetur</p>
+					<h2>TEMPLES</h2>
 				</div>
 			</div>
 		</section>
@@ -20,7 +19,13 @@
 
 		<div class="tree-plant">
 				<h2 class="headline">OUR EFFORTS</h2>
-				<p>Lorem ipsum dolor sit amet consectetur </p>
+				<p>Trees help us reduce respiratory problems, and many other health-related issues.  You begin to feel fresh, cool and nice. 
+				   This shows that trees are not only physically useful for us but also mentally essential.
+				   Among the projects we have started are temple related projects. 
+				   We planted na,Sandalawood,nuga and medicinal  plants there to create a suitable environment for temples.
+				   Due to a temple related project, a large number of members are willing to contribute to it. 
+				   We carried out these projects with that group. We also cultivate for customers who provided financial assistance for
+				   those projects but were unable to attend.</p>
 			</div>
 		</section>
         <br><br><br>
