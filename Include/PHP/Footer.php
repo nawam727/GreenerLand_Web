@@ -12,7 +12,7 @@
                   <li><a href="index.php" class="nav-link">Home</a></li>
                   <li><a href="Plant A Tree.php" class="nav-link">Join Us</a></li>
                   <li><a href="blog.php" class="nav-link">Contributions</a></li>
-                  <li><a href="#home-faqs" class="nav-link">FAQS</a></li>
+                  <li><a href="#faqs" class="nav-link">FAQS</a></li>
                   <li><a href="About Us.php" class="nav-link">About</a></li>
               </ul>
           </div>

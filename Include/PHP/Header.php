@@ -3,7 +3,6 @@
 		<div class="htop-logo">
 			<a class="logo" href="">GREENER WORLD</a>
 		</div>
-		<i class="fi fi-rr-align-justify"></i>
 		<div class="htop-nav">
 		<ul>
 			<li><a href="Contacts.php">+94 11-0315190</a></li>
@@ -13,7 +12,6 @@
 	</div>
 				<nav class="header-center">
 				<ul>
-				<i class="fi fi-rr-cross-small"></i>
 					<li> <a href="index.php">Home</a> </li>
 					<li> <a href="Plant A Tree.php">Join Us</a> </li>
                     <li> <a href="Blog.php">Contribution</a> </li>
