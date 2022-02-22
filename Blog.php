@@ -28,27 +28,6 @@
 		</section>
 
         <section class="our-project">
-			<div class="our-project-h2">
-				<h2 class="headline"> Our Projects</h2>
-			</div>
-			<div class="our-project-contain">
-				<div class="card">
-					<div class="card-container">
-						<h4>Kaluthra Temple</h4>
-						<i class="fi fi-rr-user"></i>
-						<p>Let’s drive the course towards a sustainable future</p>
-						<a href="About Us.php" class="Readmore">Read More</a>
-=======
-		<p>Did you know, on average, one tree produces nearly 
-					260 pounds of oxygen each year?
-					Our dedicated agriculture 
-					team will plant 
-					trees on selected lands on behalf of you. Your tree 
-					will be photographed and geolocated and will be shared 
-					with you so as the tree grows, you can cherish the 
-					memories that grow 
-					with the tree and the endless benefits it provides
-					 to people.</p>
 		<div class="tree-plant-con">
 				<div class="card2">
 					<div class="card2-container">
