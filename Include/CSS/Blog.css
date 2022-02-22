@@ -1,4 +1,9 @@
- .headline {
+:root {
+    --primary-color:#009900;
+}
+
+
+.headline {
     text-align: center;
     font-family: Poppins;
     font-size: 35px;
