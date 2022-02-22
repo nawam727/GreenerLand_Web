@@ -69,3 +69,45 @@
     text-align: center;
     padding-bottom: 1rem;
 }
+.img{
+    background-image: url("../../Images/img5.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom:5rem;
+    padding-top:9rem;
+    background-position-y: -77px;
+}
+
+.img .content {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+}
+
+.img-content-left{
+    max-width: 40rem;
+    width: 100%;
+}
+
+.img-content-left h1{
+	font-family: Poppins;
+    color:#000;
+	font-size: 43px;
+	line-height: 1.2em;
+    margin-top: -5rem;
+}
+
+.img .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-content-left p{
+	font-family: Poppins;
+	font-size: 16px;
+	line-height: 25px;
+    color: #000;
+	font-style: normal;
+	font-weight: 400;
+}
+
