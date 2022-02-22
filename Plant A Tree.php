@@ -139,7 +139,7 @@
 				<h2 class="headline">Frequently Asked Questions</h2>
 			</div>
 		</section>
-		<section class="faq" id="home-faqs">
+	<section class="faq" id="faqs">
     <div class="section-head">
        <h1 class="h-tag">Felt those question like others?</h1>
    </div>

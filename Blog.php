@@ -13,8 +13,8 @@
             <section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
-					<h2>PLANTING THE TREES</h2>
-					<p>Did you know 80,000 acres of forests disappear from the Earth every day. On your behalf, our professional agriculture team will plant trees on selected areas. Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow, you may enjoy the memories that come with it as well as the many benefits it gives.</p>
+					<h2>CONTRIBUTION</h2>
+					<p></p>
 				</div>
 			</div>
 		</section>
@@ -27,28 +27,27 @@
 		    how to care for them, and so on. Fortunately, we can assist you in making a positive contribution to a greener planet as effortlessly as purchasing
 			online.It not only plants a tree on your behalf, but it also creates jobs and income for local communities and rural recipients.</p>
 		</section>
-
         <section class="our-project">
 		<div class="tree-plant-con">
 				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Garden</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri2.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Beaches</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri3.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			</div>

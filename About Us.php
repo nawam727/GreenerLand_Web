@@ -80,6 +80,7 @@ Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
 				</p>
 		</div>
 		<section class="our-project">
+<<<<<<< HEAD
 			<div class="our-project-h2">
 				<h2 class="headline"> Our Projects</h2>
 			</div>
@@ -106,9 +107,31 @@ Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
 						<i class="fi fi-rr-tree"></i>
 						<p>Let’s drive the course towards a sustainable future</p>
 						<a href="Plant A Tree.php" class="Readmore">Read More</a>
+=======
+		<div class="tree-plant-con">
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Temples</h4>
+						<p></p>
+						<a href="Contri1.php" class="Readmore">Read More</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Garden</h4>
+						<p></p>
+						<a href="Contri2.php" class="Readmore">Read More</a>
+					</div>
+				</div>
+				<div class="card2">
+					<div class="card2-container">
+						<h4>Beaches</h4>
+						<p></p>
+						<a href="Contri3.php" class="Readmore">Read More</a>
+>>>>>>> f36ac3c86ec9d1b6a01f3be02ff765f0858fc170
 					</div>
 				</div>	
-			<div>
+			</div>
 		</section>	
 		<script src="Include/JS/Animation.js"></script>
         <?php include 'Include/PHP/Footer.php' ?>

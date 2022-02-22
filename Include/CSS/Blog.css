@@ -8,13 +8,14 @@
     font-family: Poppins;
     font-size: 35px;
     font-weight: 600;
+    padding-top: 3rem;
 }
 
 .hero{
     background-image: url("../../Images/tree1.jpg");
     background-size:cover;
     background-repeat:no-repeat;
-    padding-bottom:9rem;
+    padding-bottom:17rem;
     padding-top:13rem;
     background-position-y: -197px;
 }
@@ -52,6 +53,7 @@
     width: 100%;
     margin: auto;
     padding-top: 20px;
+    padding-bottom: 3rem;
 }
 
 .card2{
@@ -73,16 +75,12 @@
 .tree-plant-con {
     display: flex;
     width: 100%;
-    max-width: 60rem;
+    max-width: 57rem;
     margin: auto;
     padding-bottom: 3rem;
 }
 .card2-container{
     text-align: center;
-}
-
-.card2-container i{
-    font-size: 50px;
 }
 
 .card p{
