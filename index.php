@@ -11,7 +11,7 @@
     <body>
 		<?php include 'Include/PHP/Header.php' ?>
 
-
+<!-- Hero -->
 		<section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
@@ -21,6 +21,8 @@
 				</div>
 			</div>
 		</section>
+
+<!-- Card set -->
 		<section class="our-project">
 			<div class="our-project-h2">
 				<h2 class="headline"> Our Projects</h2>
@@ -60,12 +62,14 @@
 				</div>	
 			<div>
 		</section>
+
+<!--Planting the tri section -->
 		<section>
 			<div class="tree-plant">
 				<h2 class="headline">Planting the trees</h2>
 				<p>Did you know 80,000 acres of forests disappear from the Earth every day.
-On your behalf, our professional agriculture team will plant trees on selected areas. Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow, you may enjoy the memories that come with it as well as the many benefits it gives.
-</p>
+				On your behalf, our professional agriculture team will plant trees on selected areas. Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow, you may enjoy the memories that come with it as well as the many benefits it gives.
+				</p>
 			</div>
 			<div class="tree-plant-con">
 				<div class="card2">
@@ -94,6 +98,9 @@ On your behalf, our professional agriculture team will plant trees on selected a
 			<a href="Plant A Tree.php">Add More Option</a>
 			</div>
 		</section>
+
+<!--Mission Vision Section -->
+
 		<section>
 		<div class="vmp-con">
 				<div class="card3">

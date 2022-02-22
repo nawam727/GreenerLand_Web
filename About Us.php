@@ -84,21 +84,21 @@ Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">
 					<div class="card2-container">
 						<h4>Garden</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri2.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">
 					<div class="card2-container">
 						<h4>Beaches</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri3.php" class="Readmore">Read More</a>
 					</div>
 				</div>	
 			</div>

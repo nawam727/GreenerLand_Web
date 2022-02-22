@@ -49,6 +49,15 @@
 	font-weight: 400;
     padding-bottom: 4rem;
 }
+
+.headline-our {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+    padding-top: 2rem;
+}
+
 .tree-plant p{
     font-family: Poppins;
     text-align: center;
@@ -56,4 +65,6 @@
     width: 100%;
     margin: auto;
     padding-top: 20px;
+    padding-bottom:3rem;
+
 }

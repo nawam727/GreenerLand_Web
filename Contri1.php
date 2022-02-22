@@ -18,6 +18,7 @@
         <section>
 
 		<div class="tree-plant">
+<<<<<<< HEAD
 				<h2 class="headline">OUR EFFORTS</h2>
 				<p>Trees help us reduce respiratory problems, and many other health-related issues.  You begin to feel fresh, cool and nice. 
 				   This shows that trees are not only physically useful for us but also mentally essential.
@@ -26,6 +27,10 @@
 				   Due to a temple related project, a large number of members are willing to contribute to it. 
 				   We carried out these projects with that group. We also cultivate for customers who provided financial assistance for
 				   those projects but were unable to attend.</p>
+=======
+				<h2 class="headline-our">OUR EFFORTS</h2>
+				<p>Lorem ipsum dolor sit amet consectetur </p>
+>>>>>>> f36ac3c86ec9d1b6a01f3be02ff765f0858fc170
 			</div>
 		</section>
         <br><br><br>
