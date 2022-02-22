@@ -11,7 +11,7 @@
     <body>
 		<?php include 'Include/PHP/Header.php' ?>
 
-
+<!-- Hero -->
 		<section class="hero">
 			<div class="container">
 				<div class="hero-contant-left">
@@ -21,6 +21,8 @@
 				</div>
 			</div>
 		</section>
+
+<!-- Card set -->
 		<section class="our-project">
 			<div class="our-project-h2">
 				<h2 class="headline"> Our Projects</h2>
@@ -60,6 +62,8 @@
 				</div>	
 			<div>
 		</section>
+
+<!--Planting the tri section -->
 		<section>
 			<div class="tree-plant">
 				<h2 class="headline">Planting the trees</h2>
@@ -94,6 +98,9 @@
 			<a href="Plant A Tree.php">Add More Option</a>
 			</div>
 		</section>
+
+<!--Mission Vision Section -->
+
 		<section>
 		<div class="vmp-con">
 				<div class="card3">
@@ -131,7 +138,7 @@
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
-						<a href="" class="Readmore">Read More</a>
+						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
 				<div class="card2">

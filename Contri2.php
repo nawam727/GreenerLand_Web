@@ -8,6 +8,22 @@
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
+        <section class="hero">
+			<div class="container">
+				<div class="hero-contant-left">
+					<h2>GARDENS</h2>
+					<p></p>
+				</div>
+			</div>
+		</section>
+        <section>
+
+		<div class="tree-plant">
+				<h2 class="headline-our">OUR EFFORTS</h2>
+				<p>Among the projects we have initiated are gardens projects where we have selected plants etc.
+				To suit climatic conditions and garden projects in areas such as Hambantota, Anuradhapura, Polonnaruwa which have been identified as dry zones applicable to areas such as Haputale, Nuwara Eliya.  And also we planted trees for customers who provided financial support for such projects but were unable to participate.</p>
+			</div>
+		</section>
 
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
