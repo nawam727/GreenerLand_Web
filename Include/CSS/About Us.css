@@ -129,11 +129,19 @@
 
 .Contributions p{
     padding:0rem 8rem;
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 0rem;
+    padding-bottom: 3rem;
 }
 
 
 .card-container{
     text-align: center;
+    
 }
 
 .card i{
@@ -194,4 +202,72 @@
 
 .Touch h4{
     text-align: center;
+}
+
+.contri p{
+    font-family: Poppins;
+    text-align: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.card2{
+    border: 1px;
+    margin: 3rem;
+    padding: 3rem;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px 3px darkgray;
+    padding-bottom: 2rem;
+}
+
+.card2-container h4{
+    font-family: Poppins;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0;
+}
+
+.tree-plant-con {
+    display: flex;
+    width: 100%;
+    max-width: 57rem;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+.card2-container{
+    text-align: center;
+}
+
+.card2-container i{
+    font-size: 50px;
+}
+
+.card p{
+    font-family: Poppins;
+}
+
+.card2 a{
+    line-height:48px;
+	font-weight:500;
+	text-align:center;
+	border: 1px solid var(--primary-color);
+	font-size: 15px;
+	font-family: Poppins;
+	border-radius:50px;
+    padding: 0.8rem;
+	color:#fff;
+	box-shadow: 0px 5px 8px 0px rgb(230, 138, 0 /55%);
+	background-color: var(--primary-color);
+	text-decoration:none;
+    margin: 3rem 0;
+}
+
+.card2 a:hover{
+    color: #009900;
+    background-color:white;
+}
+.card2 a:active{
+    color: #fff;
 }
