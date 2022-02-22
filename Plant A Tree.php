@@ -137,21 +137,10 @@
 
 		<div class="Ask-Question">
 				<h2 class="headline">Frequently Asked Questions</h2>
-				<p>Did you know, on average, one tree produces nearly 
-					260 pounds of oxygen each year?
-					Our dedicated agriculture 
-					team will plant 
-					trees on selected lands on behalf of you. Your tree 
-					will be photographed and geolocated and will be shared 
-					with you so as the tree grows, you can cherish the 
-					memories that grow 
-					with the tree and the endless benefits it provides
-					 to people.</p>
 			</div>
 		</section>
 		<section class="faq" id="home-faqs">
     <div class="section-head">
-        <p class="freeble headline">FAQ</p>
        <h1 class="h-tag">Felt those question like others?</h1>
    </div>
     <div class="accordion">

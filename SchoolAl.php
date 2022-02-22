@@ -19,6 +19,25 @@
 		</section>
         <section>
         <div class="tree-powers">
+				<h2 class="headline">What Is Deforestation?</h2>
+				<p>Deforestation refers to the decrease in forest areas across the world that are lost for other uses such as agricultural croplands, urbanization, or mining activities. Greatly accelerated by human activities since 1960, deforestation has been negatively affecting natural ecosystems, biodiversity, and the climate. The UN’s Food and Agriculture Organization estimates the annual rate of deforestation to be around 1.3 million km2 per decade.
+                </p>
+		</div>
+        </section>
+        <section>
+        <div class="tree-powers">
+				<h3 class="headline">Why Is Deforestation Happening?</h3>
+				<p>Deforestation is caused by many different of sources, both human and natural. Natural processes that cause deforestation include natural forest fires and parasite-caused diseases. Human activities, however, are one of the primary causes of worldwide deforestation. According to the Food and Agriculture Organization (FAO), agriculture accounted for approximately 80% of worldwide deforestation, with infrastructure projects such as roads and dams, as well as mining and urbanization, accounting for the remaining sources of deforestation
+                </p>
+		</div>
+        </section>
+        <div class="deforestration">
+				<h2 class="headline">How to stop Deforestation?
+                </h2>
+				<p>There are many ways in which we can reduce deforestation. We must protect our forests. Moreover, we must mark adequate land for our farming needs. There are some laws already in place which prohibit people from unnecessary felling of trees. What needs to be done is the proper execution of the rules so that everyone abides by it. Also, stricter punishments need to be in place for violators so as to deter other people from disobeying the laws. Alternatively, people need to ensure that for every tree felled, equal numbers of trees are planted so that the balance of nature can be maintained. Summarily, it has to be a collective duty of all and just the governments alone, if we really need to reduce deforestation.</p>
+        </div>
+        <section>
+        <div class="tree-powers">
 				<h2 class="headline">Trees have real super powers!</h2>
 				<p>When a seed of a plant or tree grow it makes the area around it greener. Also, it supports many life forms. Birds make their nests, many reptiles and animals live on it or near it.<br>
 
@@ -28,8 +47,8 @@
                 </p>
 		</div>
         </section>
+        
         <br>
-
 
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
