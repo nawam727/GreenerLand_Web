@@ -76,8 +76,10 @@
             allapu rata.
         </pre>
         <p>
-Though no scientific definition exists to separate trees and shrubs, a useful definition for a tree is a woody plant having one erect perennial stem (trunk) at least three inches in diameter at a point 4-1/2 feet above the ground, a definitely formed crown of foliage, and a mature height of at least 13 feet.
-        </p>
+         Though no scientific definition exists to separate trees and shrubs, 
+         a useful definition for a tree is a woody plant having one erect perennial stem (trunk) 
+         at least three inches in diameter at a point 4-1/2 feet above the ground, a definitely formed crown of foliage, 
+         and a mature height of at least 13 feet.</p>
 </div>
 </div>
 <br>
