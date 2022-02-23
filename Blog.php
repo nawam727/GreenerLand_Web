@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="Include/CSS/Blog.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 		<link rel="stylesheet" href="Include/CSS/footer.css">
+		<link rel="stylesheet" href="Include/CSS/Animation.css">
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
@@ -28,21 +29,21 @@
 		</section>
         <section class="our-project">
 		<div class="tree-plant-con">
-				<div class="card2">
+				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
 						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Garden</h4>
 						<p></p>
 						<a href="Contri2.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-last">
 					<div class="card2-container">
 						<h4>Beaches</h4>
 						<p></p>
@@ -51,6 +52,7 @@
 				</div>	
 			</div>
 		</section>
+		<script src="Include/JS/Animation.js"></script>
 
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
