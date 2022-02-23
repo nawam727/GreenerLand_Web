@@ -57,7 +57,7 @@
 				</div>	
 			</div>
             <div class="tree-plant-con">
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>8 Trees</h4>
 						<img src="Images/nel.jpg" class="img">
@@ -65,7 +65,7 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>10 Trees</h4>
 						<img src="Images/nel.jpg" class="img">
@@ -73,7 +73,7 @@
 						<a href="" class="Readmore">Add to Cart</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>20 Trees</h4>
 						<img src="Images/nel.jpg" class="img">
