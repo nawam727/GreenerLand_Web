@@ -26,8 +26,8 @@
       </div>
     <div class="contact-form-lr">
     <div class="contact-form">
-    <form action="Include/PHP/ContactDB.php" method="POST">
-<p>Name</p><input type="text" name="name"><br>
+    <form name="cform" action="Include/PHP/ContactDB.php" method="POST">
+<p>Name</p><input type="text" name="name" ><br>
 <p>Email</p><input type="text" name="email"><br>
 <p>Contact</p><input type="text" name="contact"><br><br>
        <label for="district">District</label>
@@ -88,7 +88,7 @@
 </div>
 <br/>
         <?php include 'Include/PHP/Footer.php' ?>
-        <script src="include/js/function validate.js">
+        <script src="Include/JS/functionValidate.js">
         </script>
     </body>
 </html>

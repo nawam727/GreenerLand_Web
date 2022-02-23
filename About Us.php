@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="Include/CSS/About Us.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 		<link rel="stylesheet" href="Include/CSS/footer.css">
+		<link rel="stylesheet" href="Include/CSS/Animation.css">
     </head>
     <body>
         <?php include 'Include/PHP/Header.php' ?>
@@ -29,21 +30,21 @@
         </section>
 		<section>
 		<div class="vmp-con">
-				<div class="card3">
+				<div class="card3 animation-div card-first">
 					<div class="card3-container">
 						<h4>Mission</h4>
 						<i class="fi fi-rr-target"></i>
 						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order to create a sustainable environment, a sustainable future, and a carbon-neutral nation.</p>
 					</div>
 				</div>
-				<div class="card3">
+				<div class="card3 animation-div card-first">
 					<div class="card3-container">
 						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
 						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
 					</div>
 				</div>
-				<div class="card3">
+				<div class="card3 animation-div card-first">
 					<div class="card3-container">
 						<h4>Philosophy</h4>
 						<i class="fi fi-rr-book-alt"></i>
@@ -83,29 +84,31 @@
 		</div>
 		<section class="our-project">
 		<div class="tree-plant-con">
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>Temples</h4>
 						<p></p>
 						<a href="Contri1.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>Garden</h4>
 						<p></p>
 						<a href="Contri2.php" class="Readmore">Read More</a>
 					</div>
 				</div>
-				<div class="card2">
+				<div class="card2 animation-div card-first">
 					<div class="card2-container">
 						<h4>Beaches</h4>
 						<p></p>
 						<a href="Contri3.php" class="Readmore">Read More</a>
+
 					</div>
 				</div>	
 			</div>
 		</section>	
+		<script src="Include/JS/Animation.js"></script>
         <?php include 'Include/PHP/Footer.php' ?>
     </body>
 </html>
