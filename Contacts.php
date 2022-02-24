@@ -88,5 +88,12 @@ Though no scientific definition exists to separate trees and shrubs, a useful de
         <?php include 'Include/PHP/Footer.php' ?>
         <script src="Include/JS/functionValidate.js">
         </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"
+        integrity="sha512-8Wy4KH0O+AuzjMm1w5QfZ5j5/y8Q/kcUktK9mPUVaUoBvh3QPUZB822W/vy7ULqri3yR8daH3F58+Y8Z08qzeg=="
+        crossorigin="anonymous"></script>
+  <script>
+    tl = new TimelineMax({});
+        tl.staggerFrom('.hero-contant-left', 3, {y:"100%", ease:Power4.easeOut},0.45)
+    </script>
     </body>
 </html>
