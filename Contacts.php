@@ -69,11 +69,12 @@
         <ul class="OpenTime">
             Monday – Saturday | 8.30AM – 5.30PM
         </ul>
-        <pre class="OpenTime">
-            no 1990,
-            oluwa waddagamuwa,
-            nawam pura ,
-            allapu rata.
+        <pre class="Address">
+            no.102/2,
+            Ihala
+            Weediyawaththa,
+            Yakkala,
+            Gampaha
         </pre>
         <p>
          Though no scientific definition exists to separate trees and shrubs, 

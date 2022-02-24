@@ -65,8 +65,13 @@
 
 .OpenTime{
 font-weight:bold;
- color:#e43509;
+ color:#423b39;
 }
+
+.Address{
+    font-weight:bold;
+     color:#96432c;
+    }
 
       
 button[type=submit]:hover {

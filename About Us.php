@@ -21,10 +21,16 @@
         <section>
         <div class="tree-plant">
 				<h2 class="headline-our">Our Moral Imperative</h2>
-				<p>As we collectively face a planet increasingly in distress from climate change, deforestation, pollution, and population growth, Saving Nature is working to create a more sustainable future. <br>
-                   Being the source of oxygen for humans to breathe is one of the primary benefits of planting trees. Trees have the amazing capability of absorbing the Carbon dioxide in air and letting out Oxygen during the process of photosynthesis whereby energy is produced.
+				<p>As we collectively face a planet increasingly in distress from climate change, deforestation, pollution, and 
+					population growth, Saving Nature is working to create a more sustainable future. 
+					<br>
+                    Being the source of oxygen for humans to breathe is one of the primary benefits of planting trees.
+				   Trees have the amazing capability of absorbing the Carbon dioxide in air and letting out Oxygen 
+				   during the process of photosynthesis whereby energy is produced.
                    <br>
-                   As the world races to stop climate change, trees are receiving more attention for the role they play in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike other carbon removal methods they don’t require expensive technology. 
+                   As the world races to stop climate change, trees are receiving more attention for the role they play 
+				   in cooling the climate – and for good reason! Trees absorb and store massive amounts of carbon, and unlike 
+				   other carbon removal methods they don’t require expensive technology. 
                 </p>
 		</div>
         </section>
@@ -34,21 +40,27 @@
 					<div class="card3-container">
 						<h4>Mission</h4>
 						<i class="fi fi-rr-target"></i>
-						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order to create a sustainable environment, a sustainable future, and a carbon-neutral nation.</p>
+						<p>Our mission is to support Sri Lanka's Green Vision and sustainability drive in order 
+							to create a sustainable environment, a sustainable future, and a carbon-neutral nation.
+						</p>
 					</div>
 				</div>
 				<div class="card3 animation-div card-first">
 					<div class="card3-container">
 						<h4>Vision</h4>
 						<i class="fi fi-rr-globe-alt"></i>
-						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing unparalleled services for sustainability.</p>
+						<p>Empowering the youth of Sri Lanka towards a green and sustainable future by providing 
+							unparalleled services for sustainability.
+						</p>
 					</div>
 				</div>
 				<div class="card3 animation-div card-first">
 					<div class="card3-container">
 						<h4>Philosophy</h4>
 						<i class="fi fi-rr-book-alt"></i>
-						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.</p>
+						<p>We believe in creating a more environmentally friendly and long-term future. We are dedicated 
+						   to empowering our stakeholders and discerning citizens to ensure the planet's long-term sustainability.
+						</p>
 					</div>
 				</div>	
 			</div>
