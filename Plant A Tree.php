@@ -141,10 +141,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>Giving a tree to someone is a thoughtful and long-lasting way to express your gratitude. Make someone happy by letting them know they're working to make the world a better place.
                     </p>
                 </div>
             </div>
@@ -155,10 +152,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>The trees you plant or contribute to planting belong to you as well as to humankind and nature.
                     </p>
                 </div>
             </div>
