@@ -25,7 +25,11 @@
         <section>
         <div class="tree-plant">
 				<h2 class="headline">Membership Programme</h2>
-				<p>What we do here is recruit members, give members a valuable certificate of membership, and also offer special discounts on obtaining our member plants and allowing members who wish to work with us on our projects to join those project.</p>
+				<p>
+					What we do here is recruit members, give members a valuable certificate of membership, and also offer
+					 special discounts on obtaining our member plants and allowing members who wish to work with us on our projects to
+					  join those project.
+				</p>
 			</div>
 			
             <div class="tree-plant-con">
