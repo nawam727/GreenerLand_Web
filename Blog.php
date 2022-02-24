@@ -21,11 +21,13 @@
         
 		<section class="contri">
 		<h2 class="headline">Contributions</h2>
-		<p>Planting more trees is the only long-term solution to rising pollution in our cities, climate change, and rapidly dwindling green cover. 
-			Most of us are aware of this and wish to help, but for a variety of reasons, our good intentions do not translate into effective actions.
-		    You may not have the time, energy, or space to plant trees, for example. Alternatively, you may be unsure about which plants/trees to cultivate,
-		    how to care for them, and so on. Fortunately, we can assist you in making a positive contribution to a greener planet as effortlessly as purchasing
-			online.It not only plants a tree on your behalf, but it also creates jobs and income for local communities and rural recipients.</p>
+		<p>Planting more trees is the only long-term solution to rising pollution in our cities, climate change, 
+			and rapidly dwindling green cover. Most of us are aware of this and wish to help, but for a variety of reasons,
+			our good intentions do not translate into effective actions. You may not have the time, energy, or space to plant trees, 
+			for example. Alternatively, you may be unsure about which plants/trees to cultivate,
+			how to care for them, and so on. Fortunately, we can assist you in making a positive contribution 
+			to a greener planet as effortlessly as purchasing online.It not only plants a tree on your behalf,
+			but it also creates jobs and income for local communities and rural recipients.</p>
 		</section>
         <section class="our-project">
 		<div class="tree-plant-con">

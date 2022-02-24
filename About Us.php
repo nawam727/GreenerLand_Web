@@ -56,17 +56,20 @@
 	
         <div class="ChairmansMessage">
 				<h2 class="headline">Our Message</h2>
-				<p>The average man spends most of his lifetime working – working for survival, to provide a comfortable living for his family, for betterment of society, for upward social mobility, for own mental satisfaction & wellbeing and toward other aspirations & incentives. Once a man has passed his prime, upon introspection, he will inevitably have regrets; he will regret the risks not taken, roads not travelled, and opportunities not seized. However, at the end of the day, if his achievements outnumber regrets, then he could be considered a successful individual.
-
-				In my case, the business I have built with much love and care is one that I take great pride in: looking back, I am deeply satisfied with its journey through the years as a socially and environmentally conscious Enterprise.
-
-				With innovation at the center of our Company’s DNA, we have grown and expanded significantly over the last 22 years also accomplishing, along the way, many accolades and achievements in the local context as well as globally.
-
-				I would like to heartily thank everybody who applauded me in my success and stood by my side including my dear wife and members of staff, some whose service span over two decades; I am also grateful to the doubters because your skepticism certainly motivated me to keep trying & trying in times of failure.
-
+				<br>
+				<p> We stand as one of the online tree planting commissions in Sri Lanka, prioritizing sustainability 
+					and doing many valuable activities and donating them to the nation.
+					Dedicated to creating a sustainable country with a greener environment, including cleaner air, less carbon dioxide.    
+					We are humbled and proud of our mission as an online planting platform. 
+					Our efforts to create a carbon neutral nation while supporting Sri Lanka's green vision and sustainable journey are 
+					a great contribution to the whole of Sri Lanka. 
+					One of our primary goals is to empower eco-friendly people who like to plant trees, provide services for 
+					sustainability and move towards a greener and more sustainable future. 
+					We believe in creating a more environmentally friendly and long-term future.
+					We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's 
+					long-term sustainability.
 				</p>
-<p class="footer">Indika Hewawasam
-Chairman – Breathe Environment & Sustainability (Pvt) Ltd</p>
+
 		</div>
 		<div class="Contributions">
 			<h2 class="headline">Our Recent Contributions</h2>
