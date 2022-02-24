@@ -68,7 +68,9 @@
 			<div class="tree-plant">
 				<h2 class="headline">Planting the trees</h2>
 				<p>Did you know 80,000 acres of forests disappear from the Earth every day.
-				On your behalf, our professional agriculture team will plant trees on selected areas. Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow, you may enjoy the memories that come with it as well as the many benefits it gives.
+				   On your behalf, our professional agriculture team will plant trees on selected areas.
+				   Your tree will be photographed and geolocated, and the data will be shared with you so that as the tree grow,
+				   you may enjoy the memories that come with it as well as the many benefits it gives.
 				</p>
 			</div>
 			<div class="tree-plant-con">

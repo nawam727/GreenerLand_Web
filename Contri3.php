@@ -26,7 +26,8 @@
 				   Among the projects we have initiated is a new project called Coastal Projects where 
 				   we plant coastal mangroves around Sri Lanka such as coconut saplings to prevent seawater stagnant 
 				   sea erosion and plant adaptation to the soil composition associated with it.We carried out projects on
-				   beaches that attracted tourists such as Bentota, Galle and Hikkaduwa.</P>
+				   beaches that attracted tourists such as Bentota, Galle and Hikkaduwa.
+				</P>
 			
 			</div>
 		</section>
