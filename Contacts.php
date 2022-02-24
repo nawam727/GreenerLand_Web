@@ -69,15 +69,18 @@
         <ul class="OpenTime">
             Monday – Saturday | 8.30AM – 5.30PM
         </ul>
-        <pre class="OpenTime">
-            no 1990,
-            oluwa waddagamuwa,
-            nawam pura ,
-            allapu rata.
+        <pre class="Address">
+            no.102/2,
+            Ihala
+            Weediyawaththa,
+            Yakkala,
+            Gampaha
         </pre>
         <p>
-Though no scientific definition exists to separate trees and shrubs, a useful definition for a tree is a woody plant having one erect perennial stem (trunk) at least three inches in diameter at a point 4-1/2 feet above the ground, a definitely formed crown of foliage, and a mature height of at least 13 feet.
-        </p>
+         Though no scientific definition exists to separate trees and shrubs, 
+         a useful definition for a tree is a woody plant having one erect perennial stem (trunk) 
+         at least three inches in diameter at a point 4-1/2 feet above the ground, a definitely formed crown of foliage, 
+         and a mature height of at least 13 feet.</p>
 </div>
 </div>
 <br>
@@ -88,5 +91,12 @@ Though no scientific definition exists to separate trees and shrubs, a useful de
         <?php include 'Include/PHP/Footer.php' ?>
         <script src="Include/JS/functionValidate.js">
         </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"
+        integrity="sha512-8Wy4KH0O+AuzjMm1w5QfZ5j5/y8Q/kcUktK9mPUVaUoBvh3QPUZB822W/vy7ULqri3yR8daH3F58+Y8Z08qzeg=="
+        crossorigin="anonymous"></script>
+  <script>
+    tl = new TimelineMax({});
+        tl.staggerFrom('.hero-contant-left', 3, {y:"100%", ease:Power4.easeOut},0.45)
+    </script>
     </body>
 </html>
