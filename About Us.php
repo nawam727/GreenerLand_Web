@@ -81,11 +81,7 @@
 					We are dedicated to empowering our stakeholders and discerning citizens to ensure the planet's 
 					long-term sustainability.
 				</p>
-<<<<<<< HEAD
 <p class="footer">Greener World & Sustainability (Pvt) Ltd</p>
-=======
-
->>>>>>> 0335c1525a0f48fdb4667235a0f8babf85edc933
 		</div>
 		<div class="Contributions">
 			<h2 class="headline">Our Recent Contributions</h2>

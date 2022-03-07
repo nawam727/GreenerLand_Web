@@ -6,9 +6,9 @@
 if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['contact']) && isset($_POST['District']) && isset($_POST['message'])) {
     
     $serverName = "localhost";
-    $userName = "root";
-    $password = "";
-    $dbName = "contactDB";
+    $userName = "u981950455_greenerland";
+    $password = "(,L5G6%dS8J5BuK";
+    $dbName = "u981950455_ContactDB";
 
     $conn = mysqli_connect($serverName, $userName, $password, $dbName);
 
